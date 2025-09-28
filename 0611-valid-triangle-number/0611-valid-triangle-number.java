@@ -16,8 +16,15 @@ class Solution {
             {
                 for(int k=j+1;k<nums.length;k++)
                 {
-                    c+=check(nums[i],nums[j],nums[k]);
-
+                    int n=check(nums[i],nums[j],nums[k]);
+                    if(n!=0)
+                    {
+                        c+=n;
+                    }
+                    else
+                    {
+                        break;
+                    }
                 }
             }
         }

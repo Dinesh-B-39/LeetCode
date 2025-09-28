@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Dinesh-B-39/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0830-largest-triangle-area](https://github.com/Dinesh-B-39/LeetCode/tree/master/0830-largest-triangle-area) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Dinesh-B-39/LeetCode/tree/master/0611-valid-triangle-number) |
+## Math
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Dinesh-B-39/LeetCode/tree/master/0830-largest-triangle-area) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Dinesh-B-39/LeetCode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->

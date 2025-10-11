@@ -5,14 +5,9 @@ class Solution {
         int c=0;
         for(int i=0;i<nums.length;i++)
         {
-            if(i<x)
-            {
-                c+=nums[x]-nums[i];
-            }
-            else if(i>x)
-            {
-                c+=nums[i]-nums[x];
-            }
+            
+                c+=Math.abs(nums[x]-nums[i]);
+            
         }
         return c;
     }

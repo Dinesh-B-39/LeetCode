@@ -6,15 +6,15 @@ class Solution {
             res[nums[i]]++;
         }
         int c=0;
-        HashSet<Integer> set=new HashSet<>();
+       
         for(int i=0;i<nums.length;i++)
         {
-            if(!set.contains(nums[i]) && res[nums[i]]%k==0)
+            if(res[nums[i]]!=-1 && res[nums[i]]%k==0)
             {
                 c+=nums[i]*res[nums[i]];
                 
             }
-            set.add(nums[i]);
+           res[nums[i]]=-1;
         }
         return c;
     }

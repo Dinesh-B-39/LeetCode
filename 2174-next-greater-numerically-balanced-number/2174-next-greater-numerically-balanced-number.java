@@ -2,15 +2,15 @@ class Solution {
     public boolean check(int p)
     {
         String s=p+"";
-        HashMap<Character,Integer> map=new HashMap<>();
+        int[] res=new int[10];
         for(int i=0;i<s.length();i++)
         {
-            map.put(s.charAt(i),map.getOrDefault(s.charAt(i),0)+1);
+           res[s.charAt(i)-'0']++;
         }
-        for(char c:map.keySet())
+        for(int i=0;i<s.length();i++)
         {
-            int k=c-'0';
-            if(map.get(c)!=k)
+        
+            if(res[s.charAt(i)-'0']!=s.charAt(i)-'0')
             {
                 return false;
             }

@@ -10,7 +10,7 @@ class Solution {
             peek=new StringBuilder();
             for(int i=0;i<s1.length()-1;i++)
             {
-                int val=(Integer.parseInt(s1.charAt(i)+"")+Integer.parseInt(s1.charAt(i+1)+""))%10;
+                int val=(s1.charAt(i)-'0'+s1.charAt(i+1)-'0')%10;
                 peek.append(val+"");
             }
             m=peek.length();

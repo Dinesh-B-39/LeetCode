@@ -1,9 +1,9 @@
 class Solution {
     public boolean hasSameDigits(String s) {
-        int m=s.length();
+        
         StringBuilder s1=new StringBuilder(s);
         StringBuilder peek=new StringBuilder(s);
-        while(m>2)
+        while(peek.length()>2)
         {
             s1=new StringBuilder();
             s1.append(peek);
@@ -13,7 +13,7 @@ class Solution {
                 int val=(s1.charAt(i)-'0'+s1.charAt(i+1)-'0')%10;
                 peek.append(val+"");
             }
-            m=peek.length();
+           
         }
         return peek.charAt(0)==peek.charAt(1);
     }

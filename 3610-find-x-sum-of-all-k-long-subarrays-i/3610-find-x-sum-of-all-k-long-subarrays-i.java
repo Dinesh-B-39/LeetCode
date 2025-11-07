@@ -43,6 +43,10 @@ class Solution {
         for(int i=k;i<nums.length;i++)
         {
             map.put(nums[i-k],map.get(nums[i-k])-1);
+             if(map.get(nums[i-k])==0)
+            {
+                map.remove(nums[i-k]);
+            }
             if(map.containsKey(nums[i]))
             {
                 map.put(nums[i],map.get(nums[i])+1);

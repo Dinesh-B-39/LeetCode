@@ -1,7 +1,7 @@
 class Solution {
-    public boolean check(HashMap<Integer,Integer> map,int size,int target)
+    public boolean check(int z,int size)
     {
-        if(map.containsKey(target) && map.get(target)>(size/2))
+        if(z>(size/2))
         {
             return true;
         }
@@ -11,11 +11,14 @@ class Solution {
         int c=0;
         for(int i=0;i<nums.length;i++)
         {
-            HashMap<Integer,Integer> map=new HashMap<>();
+           int z=0;
             for(int j=i;j<nums.length;j++)
             {
-                map.put(nums[j],map.getOrDefault(nums[j],0)+1);
-                if(check(map,j-i+1,target))
+               if(nums[j]==target)
+               {
+                z+=1;
+               }
+                if(check(z,j-i+1))
                 {
                     c+=1;
                 }

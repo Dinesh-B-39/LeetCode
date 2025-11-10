@@ -1,18 +1,21 @@
 class Solution {
     public int check(ArrayList<Integer> list)
     {
-        int mine=Integer.MAX_VALUE;
-        for(int i=0;i<list.size()-2;i++)
+        Collections.sort(list);
+        if(list.size()==3)
         {
-            for(int j=i+1;j<list.size()-1;j++)
-            {
-                for(int k=j+1;k<list.size();k++)
-                {
-                    mine=Math.min(mine,Math.abs(list.get(i)-list.get(j))+Math.abs(list.get(j)-list.get(k))+Math.abs(list.get(k)-list.get(i)));
-                }
-            }
+            return 2*(list.get(list.size()-1)-list.get(0));
         }
-        return mine;
+        // if(list.size()>3)
+        // {
+            int mine=Integer.MAX_VALUE;
+            for(int i=list.size()-1;i>=2;i--)
+            {
+              mine=Math.min(mine,2*(list.get(i)-list.get(i-2)));
+            }
+         return mine;  
+        
+        
     }
     public int minimumDistance(int[] nums) {
         int[] res=new int[101];

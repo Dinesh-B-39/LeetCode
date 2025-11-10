@@ -49,7 +49,7 @@ class Solution {
                 if(nums[j]==c)
                 {
                    temp.add(j);
-                   System.out.println(j);
+                //    System.out.println(j);
                 }
             }
             list2.add(temp);

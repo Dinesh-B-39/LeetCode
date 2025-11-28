@@ -14,7 +14,7 @@ class Solution {
             {
                 high=mid-1;
             }
-            else if(arr[mid]==original)
+            else
             {
                 original*=2;
                 low=mid+1;

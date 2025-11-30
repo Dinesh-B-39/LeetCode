@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dinesh-B-39/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Dinesh-B-39/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Dinesh-B-39/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dinesh-B-39/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Dinesh-B-39/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Dinesh-B-39/LeetCode/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0874-backspace-string-compare](https://github.com/Dinesh-B-39/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/Dinesh-B-39/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Dinesh-B-39/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)
 |  |

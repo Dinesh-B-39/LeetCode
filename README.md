@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dinesh-B-39/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dinesh-B-39/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Dinesh-B-39/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Dinesh-B-39/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Dinesh-B-39/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Dinesh-B-39/LeetCode/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/Dinesh-B-39/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0874-backspace-string-compare](https://github.com/Dinesh-B-39/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/Dinesh-B-39/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dinesh-B-39/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Dinesh-B-39/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/Dinesh-B-39/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dinesh-B-39/LeetCode/tree/master/1004-max-consecutive-ones-iii) |

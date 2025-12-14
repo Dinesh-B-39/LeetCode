@@ -6,14 +6,10 @@ class Solution {
         int maxe=Integer.MIN_VALUE;
         while(r<arr.length)
         {
-            if(map.containsKey(arr[r]))
-            {
-                map.put(arr[r],map.get(arr[r])+1);
-            }
-            else
-            {
+          
+    
                 map.put(arr[r],map.getOrDefault(arr[r],0)+1);
-            }
+            
             while(map.size()>2)
             {
                 map.put(arr[l],map.get(arr[l])-1);

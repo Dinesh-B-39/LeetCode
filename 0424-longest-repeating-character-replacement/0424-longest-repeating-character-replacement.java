@@ -18,7 +18,7 @@ class Solution {
         {
             cha[s.charAt(j)-'A']+=1;
             maxfreq=Math.max(maxfreq,cha[s.charAt(j)-'A']);
-            while((j-i+1)-maxfreq>k)
+            if((j-i+1)-maxfreq>k)
             {
                 cha[s.charAt(i)-'A']-=1;
                 i+=1;

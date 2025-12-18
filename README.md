@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/Dinesh-B-39/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Dinesh-B-39/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/Dinesh-B-39/LeetCode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 | [4107-find-missing-elements](https://github.com/Dinesh-B-39/LeetCode/tree/master/4107-find-missing-elements) |
 ## Two Pointers
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Dinesh-B-39/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Dinesh-B-39/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Dinesh-B-39/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Counting Sort
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Dinesh-B-39/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dinesh-B-39/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Dinesh-B-39/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

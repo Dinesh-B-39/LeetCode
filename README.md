@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Dinesh-B-39/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Dinesh-B-39/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Dinesh-B-39/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dinesh-B-39/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Dinesh-B-39/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0904-fruit-into-baskets](https://github.com/Dinesh-B-39/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dinesh-B-39/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0930-binary-subarrays-with-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dinesh-B-39/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Dinesh-B-39/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Dinesh-B-39/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dinesh-B-39/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dinesh-B-39/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Dinesh-B-39/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/Dinesh-B-39/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dinesh-B-39/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dinesh-B-39/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |

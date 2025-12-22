@@ -1,24 +1,22 @@
 class Solution {
     public int maxScore(int[] arr, int k) {
-        int lsum=0;
-        int rsum=0;
-        int maxe=Integer.MIN_VALUE;
+        int sum=0;
         for(int i=0;i<k;i++)
         {
-            lsum+=arr[i];
+            sum+=arr[i];
         }
-        maxe=Math.max(maxe,lsum);
-        int l=k-1;
-        int r=arr.length-1;
-        while(l>=0)
+        int maxe=sum;
+        int i1=k-1;
+        int j1=arr.length-1;
+        while(i1>=0)
         {
-            lsum-=arr[l];
-            l-=1;
-            rsum+=arr[r];
-            r-=1;
-             maxe=Math.max(maxe,lsum+rsum);
-            
+            sum-=arr[i1];
+            sum+=arr[j1];
+            maxe=Math.max(maxe,sum);
+            i1-=1;
+            j1-=1;
         }
         return maxe;
+        
     }
 }

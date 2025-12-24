@@ -1,30 +1,29 @@
 class Solution {
-    public void check(int[] nums,List<Integer> li,List<List<Integer>> res,int[] freq)
+    List<List<Integer>> fin=new ArrayList<>();
+    public void check(int[] nums,int[] res,ArrayList<Integer> list)
     {
-        if(li.size()==nums.length)
+        if(list.size()==nums.length)
         {
-            res.add(new ArrayList<Integer>(li));
+            fin .add(new ArrayList<>(list));
             return;
         }
-
         for(int i=0;i<nums.length;i++)
         {
-            if(freq[i]==0)
+            if(res[i]!=-1)
             {
-                freq[i]=1;
-                li.add(nums[i]);
-                check(nums,li,res,freq);
-                freq[i]=0;
-                li.remove(li.size()-1);
-
+                list.add(nums[i]);
+                res[i]=-1;
+                check(nums,res,list);
+                list.remove(list.size()-1);
+                res[i]=0;
             }
         }
     }
     public List<List<Integer>> permute(int[] nums) {
-        List<Integer> l1=new ArrayList<>();
-        int[] freq=new int[nums.length];
-        List<List<Integer>> res=new ArrayList<>();
-        check(nums,l1,res,freq);
-        return res;
+        int[] res=new int[nums.length];
+        ArrayList<Integer> list=new ArrayList<>();
+        check(nums,res,list);
+        return fin;
+        
     }
 }

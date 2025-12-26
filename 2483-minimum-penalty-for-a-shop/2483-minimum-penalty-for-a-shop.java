@@ -17,20 +17,15 @@ class Solution {
             pref[i]=c1;
             suf[i]=c2;
         }
-        int mine=Integer.MAX_VALUE;
-        int z1=-1;
-        if(pref[s.length()-1]<mine)
-        {
-            mine=pref[s.length()-1];
-            z1=0;
-        }
-        System.out.println(mine);
+        int mine=pref[s.length()-1];
+        int z1=0;
+       
         if(suf[s.length()-1]<mine)
         {
             mine=suf[s.length()-1];
             z1=s.length();
         }
-        System.out.println(mine);
+      
         for(int i=0;i<s.length();i++)
         {
             int m=(c1-pref[i])+suf[i];

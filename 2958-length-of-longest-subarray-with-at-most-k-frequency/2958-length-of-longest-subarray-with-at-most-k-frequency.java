@@ -3,15 +3,16 @@ class Solution {
         HashMap<Integer,Integer> map=new HashMap<>();
         int i=0;
         int j=0;
-        int maxe=Integer.MIN_VALUE;
+        int maxe=-1;
         while(j<nums.length)
         {
             // temp[nums[j]]+=1;
             map.put(nums[j],map.getOrDefault(nums[j],0)+1);
             while(map.get(nums[j])>k)
             {
-               map.put(nums[i],map.get(nums[i])-1);
-               if(map.get(nums[i])==0)
+                int y=map.get(nums[i]);
+               map.put(nums[i],y-1);
+               if(y==1)
                {
                 map.remove(nums[i]);
                }

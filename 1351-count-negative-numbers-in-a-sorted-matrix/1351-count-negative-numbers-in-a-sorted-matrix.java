@@ -1,17 +1,28 @@
 class Solution {
+    public int check(int[] arr)
+    {
+        int low=0;
+        int high=arr.length-1;
+        while(low<=high)
+        {
+            int mid=(low+high)/2;
+            if(arr[mid]>=0)
+            {
+                low=mid+1;
+            }
+            else
+            {
+                high=mid-1;
+            }
+        }
+        return arr.length-low;
+    }
     public int countNegatives(int[][] grid) {
         int c=0;
         for(int i=0;i<grid.length;i++)
         {
-            for(int j=grid[0].length-1;j>=0;j--)
-            {
-                if(grid[i][j]<0)
-                {
-                    c+=1;
-                }
-               
-            }
+            c+=check(grid[i]);
         }
-        return c;
+       return c; 
     }
 }

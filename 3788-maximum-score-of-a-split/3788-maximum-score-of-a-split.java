@@ -18,7 +18,7 @@ class Solution {
         long res=Long.MIN_VALUE;
         for(int i=0;i<nums.length-1;i++)
         {
-            res=(long)Math.max(res,(long)(pref[i]-suff[i+1]));
+            res=Math.max(res,(long)(pref[i]-suff[i+1]));
         }
         return res;
     }

@@ -9,10 +9,7 @@ class Solution {
                 {
                     c+=1;
                 }
-                else
-                {
-                    break;
-                }
+               
             }
         }
         return c;

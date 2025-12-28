@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/Dinesh-B-39/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1052-grumpy-bookstore-owner](https://github.com/Dinesh-B-39/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Dinesh-B-39/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Dinesh-B-39/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dinesh-B-39/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Dinesh-B-39/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Dinesh-B-39/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dinesh-B-39/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Greedy
 |  |
@@ -301,4 +303,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Dinesh-B-39/LeetCode/tree/master/0048-rotate-image) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->

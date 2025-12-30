@@ -19,7 +19,7 @@ class Solution {
             c1-=1;
             sb.deleteCharAt(sb.length()-1);
         }
-        if(c1>c2 && c2<n)
+        if(c1>c2)
         {
             sb.append(")");
             c2+=1;

@@ -4,9 +4,10 @@ class Solution {
     {
         if(sb.length()==2*n)
         {
-            if(!res.contains(sb.toString()))
+            String p=sb.toString();
+            if(!res.contains(p))
             {
-                res.add(sb.toString());
+                res.add(p);
             }
             
             return;

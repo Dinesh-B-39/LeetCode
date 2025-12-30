@@ -12,7 +12,7 @@ class Solution {
             
             return;
         }
-        if(c1<n)
+        if(c1<n )
         {
             sb.append("(");
             c1+=1;
@@ -20,7 +20,7 @@ class Solution {
             c1-=1;
             sb.deleteCharAt(sb.length()-1);
         }
-        if(c1>c2)
+        if(c1>c2 && c2<n)
         {
             sb.append(")");
             c2+=1;

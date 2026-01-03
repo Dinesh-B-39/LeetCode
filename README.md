@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Dinesh-B-39/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0542-01-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Dinesh-B-39/LeetCode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Dinesh-B-39/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/Dinesh-B-39/LeetCode/tree/master/0830-largest-triangle-area) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Dinesh-B-39/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0542-01-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Dinesh-B-39/LeetCode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Dinesh-B-39/LeetCode/tree/master/0022-generate-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/Dinesh-B-39/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Dinesh-B-39/LeetCode/tree/master/0392-is-subsequence) |
+| [0542-01-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/0542-01-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dinesh-B-39/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/Dinesh-B-39/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Dinesh-B-39/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Dinesh-B-39/LeetCode/tree/master/0048-rotate-image) |
+| [0542-01-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Dinesh-B-39/LeetCode/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->

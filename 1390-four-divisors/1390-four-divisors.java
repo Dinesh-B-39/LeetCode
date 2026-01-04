@@ -19,6 +19,10 @@ class Solution {
                         set.add(s2);
                     }
                 }
+                if(set.size()>4)
+                {
+                    break;
+                }
 
             }
             if(set.size()==4)

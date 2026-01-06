@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Dinesh-B-39/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Dinesh-B-39/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Dinesh-B-39/LeetCode/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/Dinesh-B-39/LeetCode/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/Dinesh-B-39/LeetCode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Dinesh-B-39/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Dinesh-B-39/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dinesh-B-39/LeetCode/tree/master/0022-generate-parentheses) |
+| [0118-pascals-triangle](https://github.com/Dinesh-B-39/LeetCode/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Dinesh-B-39/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/Dinesh-B-39/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Dinesh-B-39/LeetCode/tree/master/0392-is-subsequence) |

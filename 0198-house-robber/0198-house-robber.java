@@ -1,26 +1,15 @@
 class Solution {
-    public int check(int[] nums,int[] dp,int ind)
-    {
-        if(ind<0)
-        {
-            return 0;
-        }
-        if(dp[ind]!=-1)
-        {
-            return dp[ind];
-        }
-        
-        int pick=nums[ind]+check(nums,dp,ind-2);
-        int non_pick=0+check(nums,dp,ind-1);
-        dp[ind]=Math.max(pick,non_pick);
-        return dp[ind];
-    }
     public int rob(int[] nums) {
-        int[] dp=new int[nums.length];
-        Arrays.fill(dp,-1);
-        dp[0]=nums[0];
-        int x=check(nums,dp,nums.length-1);
-        return x;
-        
+        int dup1=0;
+        int dup2=nums[0];
+        for(int i=1;i<nums.length;i++)
+        {
+            int s1=nums[i]+dup1;
+            int s2=dup2;
+            int maxe=Math.max(s1,s2);
+            dup1=dup2;
+            dup2=maxe;
+        }
+        return dup2;
     }
 }

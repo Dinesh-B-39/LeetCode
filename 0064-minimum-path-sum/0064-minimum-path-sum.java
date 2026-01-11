@@ -1,10 +1,14 @@
 class Solution {
     public int check(int[][] grid,int[][] dp,int i,int j)
     {
-        if(i<0 || j<0)
-        {
-            return 1000000;
-        }
+       if(i==0 && j!=0)
+       {
+        return grid[i][j]+check(grid,dp,i,j-1);
+       }
+       if(j==0 && i!=0)
+       {
+        return grid[i][j]+check(grid,dp,i-1,j);
+       }
         if(dp[i][j]!=-1)
         {
             return dp[i][j];

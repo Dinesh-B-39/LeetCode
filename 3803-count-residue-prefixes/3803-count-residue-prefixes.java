@@ -1,6 +1,6 @@
 class Solution {
     public int residuePrefixes(String s) {
-        HashMap<Character,Integer> map=new HashMap<>();
+       
         int[] arr=new int[26];
         int c=0;
         int v=0;

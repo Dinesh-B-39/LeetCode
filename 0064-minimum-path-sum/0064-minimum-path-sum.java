@@ -1,18 +1,21 @@
 class Solution {
     public int check(int[][] grid,int[][] dp,int i,int j)
     {
-       if(i==0 && j!=0)
-       {
-        return grid[i][j]+check(grid,dp,i,j-1);
-       }
-       if(j==0 && i!=0)
-       {
-        return grid[i][j]+check(grid,dp,i-1,j);
-       }
-        if(dp[i][j]!=-1)
+         if(dp[i][j]!=-1)
         {
             return dp[i][j];
         }
+       if(i==0 && j!=0)
+       {
+          dp[i][j]=grid[i][j]+check(grid,dp,i,j-1);
+          return dp[i][j];
+       }
+       if(j==0 && i!=0)
+       {
+            dp[i][j]=grid[i][j]+check(grid,dp,i-1,j);
+            return dp[i][j];
+       }
+       
         int top=grid[i][j]+check(grid,dp,i-1,j);
         int left=grid[i][j]+check(grid,dp,i,j-1);
         dp[i][j]=Math.min(top,left);

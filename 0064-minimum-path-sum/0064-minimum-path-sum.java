@@ -5,12 +5,12 @@ class Solution {
         {
             return dp[i][j];
         }
-       if(i==0 && j!=0)
+       if(i==0)
        {
           dp[i][j]=grid[i][j]+check(grid,dp,i,j-1);
           return dp[i][j];
        }
-       if(j==0 && i!=0)
+       if(j==0)
        {
             dp[i][j]=grid[i][j]+check(grid,dp,i-1,j);
             return dp[i][j];

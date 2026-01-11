@@ -1,15 +1,15 @@
 class Solution {
     public int check(List<List<Integer>> list, ArrayList<ArrayList<Integer>> dp,int i,int j)
     {
-        if(i==0)
-        {
-            return dp.get(0).get(0);
-        }
+        // if(i==0 && j==0)
+        // {
+        //     return dp.get(0).get(0);
+        // }
         if(i<0 || j<0 || list.get(i).size()<=j)
         {
             return Integer.MAX_VALUE;
         }
-        if(dp.get(i).get(j)!=-1)
+        if(dp.get(i).get(j)!=null)
         {
             return dp.get(i).get(j);
         }
@@ -25,12 +25,13 @@ class Solution {
             ArrayList<Integer> list=new ArrayList<>();
             for(int j=0;j<triangle.get(i).size();j++)
             {
-                list.add(-1);
+                list.add(null);
             }
             dp.add(list);
         }
         int mine=Integer.MAX_VALUE;
         dp.get(0).set(0,triangle.get(0).get(0));
+        // System.out.println(dp.get(0).get(0));
         for(int i=0;i<triangle.get(triangle.size()-1).size();i++)
         {
             int u=check(triangle,dp,triangle.size()-1,i);

@@ -28,8 +28,7 @@ class Solution {
         int z1=check(hBars);
          Arrays.sort(vBars);
         int z2=check(vBars);
-        System.out.println("hBars:"+z1);
-        System.out.println("vBars:"+z2);
+     
         if(z1==-1 || z2==-1)
         {
             return 4;

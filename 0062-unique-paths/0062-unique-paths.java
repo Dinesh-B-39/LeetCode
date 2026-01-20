@@ -1,23 +1,22 @@
 class Solution {
-    public int check(int i,int j,int[][] dp)
+    public int check(int[][] dp,int i,int j)
     {
-        
-        if(i==0 && j==0)
-        {
-            return 1;
-        }
         if(i<0 || j<0)
         {
             return 0;
+        }
+        if(i==0 && j==0)
+        {
+            return 1;
         }
         if(dp[i][j]!=-1)
         {
             return dp[i][j];
         }
-        int top=check(i-1,j,dp);
-        int left=check(i,j-1,dp);
-        dp[i][j]=top+left;
-        return dp[i][j];
+        int s1=check(dp,i-1,j);
+        int s2=check(dp,i,j-1);
+        dp[i][j]=s1+s2;
+        return s1+s2;
     }
     public int uniquePaths(int m, int n) {
         int[][] dp=new int[m][n];
@@ -28,8 +27,9 @@ class Solution {
                 dp[i][j]=-1;
             }
         }
-        int n1=check(m-1,n-1,dp);
-        return n1;
+        dp[0][0]=1;
+        int m1=check(dp,m-1,n-1);
+        return m1;
         
     }
 }

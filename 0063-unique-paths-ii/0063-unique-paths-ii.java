@@ -13,11 +13,8 @@ class Solution {
                 {
                     continue;
                 }
-                if(grid[i][j]==1)
-                {
-                    dp[i][j]=0;
-                }
-                else
+              
+                else if(grid[i][j]==0)
                 {
                     int top=0;
                     int left=0;

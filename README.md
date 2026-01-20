@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dinesh-B-39/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Dinesh-B-39/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Dinesh-B-39/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Dinesh-B-39/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Dinesh-B-39/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Trie
 |  |
 | ------- |

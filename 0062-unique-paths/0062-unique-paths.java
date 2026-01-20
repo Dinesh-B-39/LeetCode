@@ -5,10 +5,10 @@ class Solution {
         {
             return 0;
         }
-        if(i==0 && j==0)
-        {
-            return 1;
-        }
+        // if(i==0 && j==0)
+        // {
+        //     return 1;
+        // }
         if(dp[i][j]!=-1)
         {
             return dp[i][j];

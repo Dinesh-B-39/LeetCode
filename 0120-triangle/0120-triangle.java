@@ -5,10 +5,10 @@ class Solution {
         {
             return Integer.MAX_VALUE;
         }
-        if(i==0 && j==0)
-        {
-            return triangle.get(i).get(j);
-        }
+        // if(i==0 && j==0)
+        // {
+        //     return triangle.get(i).get(j);
+        // }
         if(dp.get(i).get(j)!=null)
         {
             return dp.get(i).get(j);
@@ -30,6 +30,7 @@ class Solution {
             }
             dp.add(d1);
         }
+        dp.get(0).set(0,triangle.get(0).get(0));
         int mine=Integer.MAX_VALUE;
         for(int i=0;i<triangle.get(triangle.size()-1).size();i++)
         {

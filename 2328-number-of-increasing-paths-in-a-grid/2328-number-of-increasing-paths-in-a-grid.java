@@ -1,15 +1,15 @@
 class Solution {
     static final int mod = 1_000_000_007;
-    public long check(int i,int j,int[][] matrix,long[][] dp)
+    public int check(int i,int j,int[][] matrix,int[][] dp)
     {
         if(dp[i][j]!=-1)
         {
             return dp[i][j];
         }
-        long s1=0;
-        long s2=0;
-        long s3=0;
-        long s4=0;
+        int s1=0;
+        int s2=0;
+        int s3=0;
+        int s4=0;
         if(j-1>=0 && matrix[i][j-1]>matrix[i][j])
         {
             s1=check(i,j-1,matrix,dp);
@@ -30,7 +30,7 @@ class Solution {
         return dp[i][j];
     }
     public int countPaths(int[][] grid) {
-        long[][] dp=new long[grid.length][grid[0].length];
+        int[][] dp=new int[grid.length][grid[0].length];
         for(int i=0;i<grid.length;i++)
         {
             for(int j=0;j<grid[0].length;j++)
@@ -38,7 +38,7 @@ class Solution {
                 dp[i][j]=-1;
             }
         }
-        long n=0;
+        int n=0;
            for(int i=0;i<grid.length;i++)
         {
             for(int j=0;j<grid[0].length;j++)
@@ -48,6 +48,6 @@ class Solution {
                 
             }
         }
-        return (int)n;
+        return n;
     }
 }

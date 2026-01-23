@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Dinesh-B-39/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Dinesh-B-39/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Dinesh-B-39/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Dinesh-B-39/LeetCode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Dinesh-B-39/LeetCode/tree/master/0994-rotting-oranges) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/Dinesh-B-39/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Dinesh-B-39/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -383,12 +386,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Dinesh-B-39/LeetCode/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Dinesh-B-39/LeetCode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/Dinesh-B-39/LeetCode/tree/master/0695-max-area-of-island) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -398,12 +403,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Memoization
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 <!---LeetCode Topics End-->

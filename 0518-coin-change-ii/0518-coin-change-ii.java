@@ -6,20 +6,26 @@ class Solution {
         {
             return 1;
         }
+        if(ind==0 && nums[ind]==target)
+        {
+            return 1;
+        }
+        if(ind==-1)
+        {
+            return 0;
+        }
         if(dp[ind][target]!=-1)
         {
             return dp[ind][target];
         }
-        int val=0;
-        for(int i=ind;i>=0;i--)
+        int non_take=check(target,nums,ind-1,dp);
+        int take=0;
+        if(nums[ind]<=target)
         {
-            if(nums[i]<=target)
-            {
-                val+=check(target-nums[i],nums,i,dp);
-            }
+            take=check(target-nums[ind],nums,ind,dp);
         }
-        dp[ind][target]=val;
-        return val;
+        dp[ind][target]=take+non_take;
+        return take+non_take;
     }
     public int change(int amount, int[] coins) {
         int[][] dp=new int[coins.length][amount+1];

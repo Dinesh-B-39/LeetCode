@@ -1,24 +1,27 @@
 class Solution {
-    int fin=0;
-    public void check(int[] nums,int target,int c,int ind)
+    public int check(int[] nums,int ind,int target,int val)
     {
-        if(ind==nums.length)
+        if(ind==0)
         {
-            if(c==target)
+             if(val+nums[ind]==target && val-nums[ind]==target)
             {
-                fin+=1;
+                return 2;
             }
-            return;
+            if(val+nums[ind]==target || val-nums[ind]==target)
+            {
+                return 1;
+            }
+            else
+            {
+                return 0;
+            }
         }
-    
-          c+=nums[ind];
-          check(nums,target,c,ind+1);
-          c-=nums[ind];
-          c-=nums[ind];
-          check(nums,target,c,ind+1);
+        int plus=check(nums,ind-1,target,val+nums[ind]);
+        int minus=check(nums,ind-1,target,val-nums[ind]);
+        return plus+minus;
     }
     public int findTargetSumWays(int[] nums, int target) {
-        check(nums,target,0,0);
-        return fin;
+        return check(nums,nums.length-1,target,0);
+        
     }
 }

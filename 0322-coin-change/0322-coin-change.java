@@ -1,5 +1,5 @@
 class Solution {
-    int mine=Integer.MAX_VALUE;
+    
     int mod=1000000007;
     public int check(int[] arr,int[][] dp,int target,int ind)
     {
@@ -17,10 +17,7 @@ class Solution {
             {
                 return 1;
             }
-            // else
-            // {
-            //     return mod;
-            // }
+          
         }
         if(dp[ind][target]!=-1)
         {

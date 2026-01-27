@@ -3,10 +3,17 @@ class Solution {
     int mod=1000000007;
     public int check(int[] arr,int[][] dp,int target,int ind)
     {
-        if(ind==-1)
+       if(ind==0)
+       {
+        if(target%arr[ind]==0)
         {
-            return mod;
+            return target/arr[ind];
         }
+        else
+        {
+            return (int)1e9;
+        }
+       }
         if(target==0)
         {
             return 0;
@@ -42,6 +49,7 @@ class Solution {
             }
         }
         int z=check(coins,dp,amount,coins.length-1);
+        int mod=(int)1e9;
         if(z==mod)
         {
             return -1;

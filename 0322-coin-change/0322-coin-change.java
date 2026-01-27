@@ -1,6 +1,5 @@
 class Solution {
     
-    int mod=1000000007;
     public int check(int[] arr,int[][] dp,int target,int ind)
     {
        if(ind==0)
@@ -17,14 +16,6 @@ class Solution {
         if(target==0)
         {
             return 0;
-        }
-        if(ind==0)
-        {
-            if(arr[ind]==target)
-            {
-                return 1;
-            }
-          
         }
         if(dp[ind][target]!=-1)
         {

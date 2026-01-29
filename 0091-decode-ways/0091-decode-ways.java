@@ -29,10 +29,8 @@ class Solution {
         }
         if(ind>=1)
         {
-            StringBuilder sb=new StringBuilder();
-            sb.append(s.charAt(ind-1));
-            sb.append(s.charAt(ind));
-             int p=Integer.parseInt(sb.toString());
+     
+             int p=Integer.parseInt(s.substring(ind-1,ind+1));
              if(s.charAt(ind-1)!='0' && p>=10 && p<=26)
             {
                 non_take=check(s,ind-2,dp);

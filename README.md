@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Dinesh-B-39/LeetCode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Dinesh-B-39/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dinesh-B-39/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Dinesh-B-39/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Dinesh-B-39/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table

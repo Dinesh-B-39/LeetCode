@@ -1,6 +1,6 @@
 class Solution {
     // int res=0;
-    public int check(int ind,int[] nums,int target,int[] dp)
+    public int check(int[] nums,int target,int[] dp)
     {
         // if(target==0)
         // {
@@ -16,7 +16,7 @@ class Solution {
         {
             if(nums[i]<=target)
             {
-                zoo+=check(i,nums,target-nums[i],dp);
+                zoo+=check(nums,target-nums[i],dp);
             }
         }
         dp[target]=zoo;
@@ -26,7 +26,7 @@ class Solution {
         int[] dp=new int[target+1];
         Arrays.fill(dp,-1);
         dp[0]=1;
-        return check(0,nums,target,dp);
+        return check(nums,target,dp);
         
         
     }

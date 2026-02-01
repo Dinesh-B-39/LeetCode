@@ -1,7 +1,7 @@
 class Solution {
     public int minimumCost(int[] nums) {
         int z=nums[0];
-        nums[0]=-1;
+        
        int s1=Integer.MAX_VALUE;
         int s2=Integer.MAX_VALUE;
         for(int i=1;i<nums.length;i++)

@@ -31,16 +31,15 @@ class Solution {
     }
     public int numSquares(int n) {
         ArrayList<Integer> list=new ArrayList<>();
-        int z=0;
+        int z=1;
         int i=1;
         while(z<=n)
         {
-            int x=i*i;
-            list.add(x);
+            list.add(z);
             i+=1;
-            z=x;
+            z=i*i;
         }
-        list.remove(list.size()-1);
+        // list.remove(list.size()-1);
         int[][] dp=new int[n+1][list.size()];
         for(int i1=0;i1<dp.length;i1++)
         {

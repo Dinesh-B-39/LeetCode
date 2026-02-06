@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/Dinesh-B-39/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Dinesh-B-39/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/Dinesh-B-39/LeetCode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 | [4107-find-missing-elements](https://github.com/Dinesh-B-39/LeetCode/tree/master/4107-find-missing-elements) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Dinesh-B-39/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3531-count-covered-buildings](https://github.com/Dinesh-B-39/LeetCode/tree/master/3531-count-covered-buildings) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/Dinesh-B-39/LeetCode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 | [4107-find-missing-elements](https://github.com/Dinesh-B-39/LeetCode/tree/master/4107-find-missing-elements) |
 ## Math
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Dinesh-B-39/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dinesh-B-39/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Dinesh-B-39/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Heap (Priority Queue)
 |  |

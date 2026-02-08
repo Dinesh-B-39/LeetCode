@@ -1,17 +1,18 @@
 class Solution {
+    int x=-(int)1e9;
     public int check(int i,int j,int[] nums1,int[] nums2,int[][] dp)
     {
         if(i<0 || j<0)
         {
-            return Integer.MIN_VALUE;
+            return x;
         }
         if(dp[i][j]!=Integer.MIN_VALUE)
         {
             return dp[i][j];
         }
-        int num=check(i-1,j-1,nums1,nums2,dp);
+      
         int not=nums1[i]*nums2[j];
-        int take=(nums1[i]*nums2[j])+(num==Integer.MIN_VALUE?0:num);
+        int take=(nums1[i]*nums2[j])+check(i-1,j-1,nums1,nums2,dp);
         int non_take1=check(i-1,j,nums1,nums2,dp);
         int non_take2=check(i,j-1,nums1,nums2,dp);
         int x=Math.max(take,Math.max(non_take1,non_take2));

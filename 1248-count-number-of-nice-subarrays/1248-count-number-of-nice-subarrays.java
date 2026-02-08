@@ -1,22 +1,22 @@
 class Solution {
-    public int check(int[] nums,int k)
+    public int check(int k,int[] nums)
     {
         int i=0;
         int j=0;
-        int z=0;
+        int fin=0;
         int c=0;
         while(j<nums.length)
         {
-            z+=nums[j];
-            while(z>k)
+            c+=nums[j];
+            while(c>k)
             {
-                z-=nums[i];
+                c-=nums[i];
                 i+=1;
             }
-            c+=j-i+1;
+            fin+=j-i+1;
             j+=1;
         }
-        return c;
+        return fin;
     }
     public int numberOfSubarrays(int[] nums, int k) {
         for(int i=0;i<nums.length;i++)
@@ -30,9 +30,9 @@ class Solution {
                 nums[i]=1;
             }
         }
-        int n1=check(nums,k);
-        int n2=check(nums,k-1);
-        return n1-n2;
+        int m=check(k,nums);
+        int n=check(k-1,nums);
+        return m-n;
         
     }
 }

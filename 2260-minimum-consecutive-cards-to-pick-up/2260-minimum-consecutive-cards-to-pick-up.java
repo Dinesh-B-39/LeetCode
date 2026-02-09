@@ -8,7 +8,7 @@ class Solution {
         {
             if(set.contains(cards[j]))
             {
-                System.out.println(cards[j]);
+                
                 while(cards[i]!=cards[j])
                 {
                     set.remove(cards[i]); 

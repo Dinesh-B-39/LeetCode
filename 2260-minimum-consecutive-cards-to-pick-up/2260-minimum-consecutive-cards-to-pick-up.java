@@ -15,7 +15,8 @@ class Solution {
                     i+=1;
                 }
                 mine=Math.min(mine,j-i+1);
-                // set.add(cards[j]);
+                set.add(cards[j]);
+                i+=1;
                 j+=1;
             }
 

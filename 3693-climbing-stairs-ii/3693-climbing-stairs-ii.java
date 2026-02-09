@@ -2,14 +2,15 @@ class Solution {
     int mod=(int)1e9;
     public int check(int ind,int[] costs,int[] dp)
     {
+          if(ind==-1)
+        {
+            return 0;
+        }
         if(ind<0)
         {
             return mod;
         }
-        if(ind==-1)
-        {
-            return 0;
-        }
+      
         if(dp[ind]!=-1)
         {
             return dp[ind];
@@ -23,7 +24,7 @@ class Solution {
     public int climbStairs(int n, int[] costs) {
         int[] dp=new int[costs.length];
         Arrays.fill(dp,-1);
-        return check(costs.length-1,costs,dp)-1000000000;
+        return check(costs.length-1,costs,dp);
         
     }
 }

@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Dinesh-B-39/LeetCode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Dinesh-B-39/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0695-max-area-of-island](https://github.com/Dinesh-B-39/LeetCode/tree/master/0695-max-area-of-island) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Dinesh-B-39/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dinesh-B-39/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0830-largest-triangle-area](https://github.com/Dinesh-B-39/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0904-fruit-into-baskets](https://github.com/Dinesh-B-39/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Dinesh-B-39/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Dinesh-B-39/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Dinesh-B-39/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dinesh-B-39/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dinesh-B-39/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dinesh-B-39/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dinesh-B-39/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Dinesh-B-39/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0904-fruit-into-baskets](https://github.com/Dinesh-B-39/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dinesh-B-39/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/0542-01-matrix) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Dinesh-B-39/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dinesh-B-39/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/Dinesh-B-39/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -494,4 +498,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Dinesh-B-39/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Dinesh-B-39/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->

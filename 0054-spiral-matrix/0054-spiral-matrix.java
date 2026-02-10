@@ -12,7 +12,7 @@ class Solution {
             {
                 if(temp[top][i]!=true)
                 {
-                     System.out.println(matrix[top][i]);
+                    
                     list.add(matrix[top][i]);
                     temp[top][i]=true;
                 }
@@ -24,7 +24,7 @@ class Solution {
             {
                   if(temp[i][right-1]!=true)
                 {
-                 System.out.println(matrix[i][right-1]);
+                 
                 list.add(matrix[i][right-1]);
                  temp[i][right-1]=true;
                 }
@@ -35,7 +35,7 @@ class Solution {
             {
                  if(temp[bottom-1][i]!=true)
                 {
-                System.out.println(matrix[bottom-1][i]);
+               
                 list.add(matrix[bottom-1][i]);
                 temp[bottom-1][i]=true;
                 }
@@ -48,7 +48,7 @@ class Solution {
                 
                   if(temp[i][left]!=true)
                 {
-                System.out.println(matrix[i][left]);
+                
                 list.add(matrix[i][left]);
                 temp[i][left]=true;
                 }

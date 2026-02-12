@@ -1,30 +1,38 @@
 class Solution {
-    public boolean check(HashMap<Character,Integer> map)
+    public boolean check(int[] arr)
     {
-        HashSet<Integer> set=new HashSet<>();
-        for(Character c:map.keySet())
+        int k=-1;
+        int start=-1;
+      for(int i=0;i<arr.length;i++)
+      {
+        if(arr[i]!=0)
         {
-            set.add(map.get(c));
+            k=arr[i];
+            start=i;
+            break;
         }
-        if(set.size()==1)
+      }
+      for(int i=start+1;i<arr.length;i++)
+      {
+        if(arr[i]!=0 && arr[i]!=k)
         {
-            return true;
+            return false;
         }
-        return false;
+      }
+      return true;
     }
     public int longestBalanced(String s) {
         int maxe=0;
         for(int i=0;i<s.length();i++)
         {
-            HashMap<Character,Integer> map=new HashMap<>();
+            int[] arr=new int[26];
             for(int j=i;j<s.length();j++)
             {
-                map.put(s.charAt(j),map.getOrDefault(s.charAt(j),0)+1);
-                if(check(map))
+                arr[s.charAt(j)-'a']+=1;
+                if(check(arr))
                 {
                     maxe=Math.max(maxe,j-i+1);
                 }
-
             }
         }
         return maxe;

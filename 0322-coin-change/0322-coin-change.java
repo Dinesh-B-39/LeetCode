@@ -1,51 +1,47 @@
 class Solution {
-    
-    public int check(int[] arr,int[][] dp,int target,int ind)
+    int mod=(int)1e7;
+    public int check(int[] coins,int ind,int amount,int[][] dp)
     {
-       if(ind==0)
-       {
-        if(target%arr[ind]==0)
-        {
-            return target/arr[ind];
-        }
-        else
-        {
-            return (int)1e9;
-        }
-       }
-        if(target==0)
+        if(amount==0)
         {
             return 0;
         }
-        if(dp[ind][target]!=-1)
+        if(ind==0)
         {
-            return dp[ind][target];
-        }
-        int non_take=check(arr,dp,target,ind-1);
-        int take=Integer.MAX_VALUE;
-        if(arr[ind]<=target)
-        {
-            take=1+check(arr,dp,target-arr[ind],ind);
-        }
-        dp[ind][target]=Math.min(non_take,take);
-        return dp[ind][target];
-    }
-    public int coinChange(int[] coins, int amount) {
-        int [][] dp=new int[coins.length][amount+1];
-        for(int i=0;i<dp.length;i++)
-        {
-            for(int j=0;j<dp[0].length;j++)
+            if(amount%coins[ind]==0)
             {
-                dp[i][j]=-1;
+                return amount/coins[ind];
+            }
+            else
+            {
+                return mod;
             }
         }
-        int z=check(coins,dp,amount,coins.length-1);
-        int mod=(int)1e9;
-        if(z==mod)
+        if(dp[ind][amount]!=-1)
+        {
+            return dp[ind][amount];
+        }
+        int take=Integer.MAX_VALUE;
+        int non_take=check(coins,ind-1,amount,dp);
+        if(coins[ind]<=amount)
+        {
+            take=1+check(coins,ind,amount-coins[ind],dp);
+        }
+        dp[ind][amount]=Math.min(take,non_take);
+        return dp[ind][amount];
+    }
+    public int coinChange(int[] coins, int amount) {
+        int[][] dp=new int[coins.length][amount+1];
+        for(int i=0;i<dp.length;i++)
+        {
+            Arrays.fill(dp[i],-1);
+           
+        }
+        int p=check(coins,coins.length-1,amount,dp);
+        if(p==mod)
         {
             return -1;
         }
-        return z;
-        
+        return p;
     }
 }

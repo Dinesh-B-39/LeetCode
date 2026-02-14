@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Dinesh-B-39/LeetCode/tree/master/0695-max-area-of-island) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Dinesh-B-39/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dinesh-B-39/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/Dinesh-B-39/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0830-largest-triangle-area](https://github.com/Dinesh-B-39/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0904-fruit-into-baskets](https://github.com/Dinesh-B-39/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dinesh-B-39/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/0542-01-matrix) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Dinesh-B-39/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0746-min-cost-climbing-stairs](https://github.com/Dinesh-B-39/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dinesh-B-39/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/Dinesh-B-39/LeetCode/tree/master/1143-longest-common-subsequence) |

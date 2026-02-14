@@ -1,5 +1,5 @@
 class Solution {
-    int mod=-1*(int)1e9;
+    
     public int check(int i,int j,String s1,String s2,int[][] dp)
     {
         if(i<0 || j<0)

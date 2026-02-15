@@ -1,23 +1,29 @@
 class Solution {
-    public long rob(int[] nums, int[] colors) {
-        long temp1=0;
-        long temp2=nums[0];
-        long maxe=temp2;
-        for(int i=1;i<nums.length;i++)
+    public long check(int ind,int val,int[] nums,int[] colors,long[][] dp)
+    {
+        if(ind==nums.length)
         {
-            if(colors[i]==colors[i-1])
-            {
-                temp1+=nums[i];
-                long temp3=Math.max(temp1,temp2);
-                temp1=temp2;
-                temp2=temp3;
-            }
-            else
-            {
-                temp1=temp2;
-                temp2+=nums[i];
-            }
+            return 0;
         }
-        return temp2;
+        if(dp[ind][val]!=-1)
+        {
+            return dp[ind][val];
+        }
+        long take=Integer.MIN_VALUE;
+        if(val==0 ||(val==1 && colors[ind]!=colors[ind-1]))
+        {
+            take=(long)nums[ind]+check(ind+1,1,nums,colors,dp);
+        }
+        long non_take=(long)check(ind+1,0,nums,colors,dp);
+        return dp[ind][val]=Math.max(take,non_take);
+    }
+    public long rob(int[] nums, int[] colors) {
+        long[][] dp=new long[nums.length][2];
+        for(int i=0;i<dp.length;i++)
+        {
+            Arrays.fill(dp[i],-1);
+        }
+        return check(0,0,nums,colors,dp);
+        
     }
 }

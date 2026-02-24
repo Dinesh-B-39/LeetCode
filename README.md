@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Dinesh-B-39/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Dinesh-B-39/LeetCode/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/Dinesh-B-39/LeetCode/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/Dinesh-B-39/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Dinesh-B-39/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Dinesh-B-39/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Dinesh-B-39/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Dinesh-B-39/LeetCode/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/Dinesh-B-39/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Dinesh-B-39/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Dinesh-B-39/LeetCode/tree/master/0120-triangle) |

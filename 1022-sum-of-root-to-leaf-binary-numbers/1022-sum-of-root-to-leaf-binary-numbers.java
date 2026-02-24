@@ -41,7 +41,7 @@ class Solution {
         int tot=0;
         for(int i=0;i<list.size();i++)
         {
-            System.out.println(list.get(i));
+            // System.out.println(list.get(i));
             tot+=Integer.parseInt(list.get(i),2);
         }
 

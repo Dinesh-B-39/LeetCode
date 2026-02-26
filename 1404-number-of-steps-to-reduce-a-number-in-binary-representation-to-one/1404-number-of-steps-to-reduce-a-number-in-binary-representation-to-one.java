@@ -1,7 +1,7 @@
 class Solution {
     public int numSteps(String s) {
         StringBuilder sb=new StringBuilder(s);
-        System.out.println(sb);
+       
         int c=0;
         while(!sb.toString().equals("1"))
         {

@@ -45,10 +45,10 @@ class Solution {
                   k+=1;
             }
         }
-        for(int i=0;i<temp.length;i++)
-        {
-            System.out.println(temp[i]);
-        }
+        // for(int i=0;i<temp.length;i++)
+        // {
+        //     System.out.println(temp[i]);
+        // }
         int n=grid[0].length;
         for(int i=0;i<grid.length;i++)
         {

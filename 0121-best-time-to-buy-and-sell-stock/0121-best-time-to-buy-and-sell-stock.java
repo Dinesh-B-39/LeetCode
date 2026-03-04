@@ -8,7 +8,12 @@ class Solution {
             {
                 ans=Math.max(ans,arr[i]-mine);
             }
-            mine=Math.min(mine,arr[i]);
+            else
+            {
+                
+                    mine=Math.min(mine,arr[i]);
+            }
+            
         }
         return ans;
     }

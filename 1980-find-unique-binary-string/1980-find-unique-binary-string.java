@@ -3,10 +3,10 @@ class Solution {
     String res="";
     public void check(String s,int limit,HashSet<String> set)
     {
-        if(flag==1)
-        {
-            return;
-        }
+        // if(flag==1)
+        // {
+        //     return;
+        // }
         if(s.length()==limit)
         {
             if(!set.contains(s))

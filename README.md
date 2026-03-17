@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Dinesh-B-39/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/Dinesh-B-39/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Dinesh-B-39/LeetCode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Dinesh-B-39/LeetCode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Dinesh-B-39/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/Dinesh-B-39/LeetCode/tree/master/0221-maximal-square) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Dinesh-B-39/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Dinesh-B-39/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Dinesh-B-39/LeetCode/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/Dinesh-B-39/LeetCode/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/Dinesh-B-39/LeetCode/tree/master/0279-perfect-squares) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dinesh-B-39/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Dinesh-B-39/LeetCode/tree/master/0204-count-primes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Backtracking
 |  |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Dinesh-B-39/LeetCode/tree/master/0204-count-primes) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Dinesh-B-39/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3713-longest-balanced-substring-i) |

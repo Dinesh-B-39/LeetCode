@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2788-split-strings-by-separator](https://github.com/Dinesh-B-39/LeetCode/tree/master/2788-split-strings-by-separator) |
+| [2906-construct-product-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dinesh-B-39/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Dinesh-B-39/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+| [2906-construct-product-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Dinesh-B-39/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Dinesh-B-39/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Dinesh-B-39/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Dinesh-B-39/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Dinesh-B-39/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2906-construct-product-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Dinesh-B-39/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Depth-First Search

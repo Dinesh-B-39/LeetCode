@@ -16,10 +16,10 @@ class Solution {
             for(int j=0;j<grid[0].length;j++)
             {
                 p+=grid[i][j];
-                if(tot-p==p)
-                {
-                    return true;
-                }
+                // if(tot-p==p)
+                // {
+                //     return true;
+                // }
             }
             temp[i]=p;
         }
@@ -43,10 +43,10 @@ class Solution {
             for(int j=0;j<grid.length;j++)
             {
                 y+=grid[j][i];
-                  if(tot-y==y)
-                {
-                    return true;
-                }
+                //   if(tot-y==y)
+                // {
+                //     return true;
+                // }
             }
             temp2[i]=y;
         }

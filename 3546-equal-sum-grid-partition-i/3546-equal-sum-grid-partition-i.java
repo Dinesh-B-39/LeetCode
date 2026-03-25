@@ -8,7 +8,7 @@ class Solution {
                 tot+=grid[i][j];
             }
         }
-        System.out.println("total:"+tot);
+        // System.out.println("total:"+tot);
         long[] temp=new long[grid.length];
         for(int i=0;i<grid.length;i++)
         {
@@ -23,10 +23,10 @@ class Solution {
             }
             temp[i]=p;
         }
-        for(int i=0;i<temp.length;i++)
-        {
-            System.out.println(temp[i]);
-        }
+        // for(int i=0;i<temp.length;i++)
+        // {
+        //     System.out.println(temp[i]);
+        // }
         long y1=0;
         for(int i=0;i<temp.length;i++)
         {
@@ -50,10 +50,10 @@ class Solution {
             }
             temp2[i]=y;
         }
-        for(int i=0;i<temp2.length;i++)
-        {
-            System.out.println(temp2[i]);
-        }
+        // for(int i=0;i<temp2.length;i++)
+        // {
+        //     System.out.println(temp2[i]);
+        // }
         long y2=0;
         for(int i=0;i<temp2.length;i++)
         {

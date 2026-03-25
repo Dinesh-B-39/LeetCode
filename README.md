@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dinesh-B-39/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Dinesh-B-39/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Dinesh-B-39/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Dinesh-B-39/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/Dinesh-B-39/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2906-construct-product-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/2906-construct-product-matrix) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Dinesh-B-39/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Dinesh-B-39/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Dinesh-B-39/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Dinesh-B-39/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2906-construct-product-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/2906-construct-product-matrix) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Dinesh-B-39/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Dinesh-B-39/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |

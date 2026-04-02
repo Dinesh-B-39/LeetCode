@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Dinesh-B-39/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Dinesh-B-39/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Dinesh-B-39/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Dinesh-B-39/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dinesh-B-39/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Dinesh-B-39/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1980-find-unique-binary-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Dinesh-B-39/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Dinesh-B-39/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Dinesh-B-39/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2470-removing-stars-from-a-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Dinesh-B-39/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Dinesh-B-39/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dinesh-B-39/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Dinesh-B-39/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Dinesh-B-39/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Dinesh-B-39/LeetCode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3713-longest-balanced-substring-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [4055-longest-balanced-substring-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/4055-longest-balanced-substring-i) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Dinesh-B-39/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Dinesh-B-39/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Dinesh-B-39/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Dinesh-B-39/LeetCode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Dinesh-B-39/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -506,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Dinesh-B-39/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Dinesh-B-39/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Dynamic Programming
 |  |

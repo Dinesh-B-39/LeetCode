@@ -2,16 +2,16 @@ class Solution {
     public String decodeCiphertext(String text, int row) {
         int col=text.length()/row;
         StringBuilder sb=new StringBuilder();
-        int s=0;
-        int tar=col-1;
-       for(int i=col-1;i>=0;i--)
-       {
-        if(text.charAt(i)!=' ')
-        {
-            tar=i+1;
-            break;
-        }
-       }
+        // int s=0;
+        // int tar=col-1;
+    //    for(int i=col-1;i>=0;i--)
+    //    {
+    //     if(text.charAt(i)!=' ')
+    //     {
+    //         tar=i+1;
+    //         break;
+    //     }
+    //    }
     //    for(int i=0;i<text.length();i++)
     //    {
     //     if(text.charAt(i)==' ')
@@ -36,8 +36,6 @@ class Solution {
             break;
         }
     }
-
-        
         return sb.toString().substring(0,fin);
     }
 }

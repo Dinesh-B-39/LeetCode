@@ -1,9 +1,7 @@
 class Solution {
     public boolean judgeCircle(String s) {
         int up=0;
-        int down=0;
         int left=0;
-        int right=0;
         for(int i=0;i<s.length();i++)
         {
             if(s.charAt(i)=='U')
@@ -12,7 +10,7 @@ class Solution {
             }
             else if(s.charAt(i)=='D')
             {
-                down+=1;
+                up-=1;
             }
             else if(s.charAt(i)=='L')
             {
@@ -20,10 +18,10 @@ class Solution {
             }
             else
             {
-                right+=1;
+                left-=1;
             }
 
         }
-        return up==down && left==right;
+        return up==0 && left==0;
     }
 }

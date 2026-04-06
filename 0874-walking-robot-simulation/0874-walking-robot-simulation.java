@@ -1,6 +1,6 @@
 class Solution {
     public int robotSim(int[] commands, int[][] obs) {
-       int maxe=Integer.MIN_VALUE;
+       int maxe=0;
        HashSet<String> set=new HashSet<>();
     for(int i=0;i<obs.length;i++)
     {

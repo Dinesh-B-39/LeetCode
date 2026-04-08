@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Dinesh-B-39/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Dinesh-B-39/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3693-climbing-stairs-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/Dinesh-B-39/LeetCode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/Dinesh-B-39/LeetCode/tree/master/2751-robot-collisions) |
 | [2899-last-visited-integers](https://github.com/Dinesh-B-39/LeetCode/tree/master/2899-last-visited-integers) |
 | [3336-water-bottles-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/Dinesh-B-39/LeetCode/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Combinatorics
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Dinesh-B-39/LeetCode/tree/master/0148-sort-list) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dinesh-B-39/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Monotonic Queue
 |  |

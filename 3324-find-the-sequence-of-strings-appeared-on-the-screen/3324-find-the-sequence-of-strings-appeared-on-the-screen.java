@@ -14,8 +14,7 @@ class Solution {
                 
                 char c=sb.charAt(sb.length()-1);
                 c=(char)((((c-'a')+1)%26)+97);
-                sb.deleteCharAt(sb.length()-1);
-                sb.append(c);
+                sb.setCharAt(sb.length() - 1, c);
                 list.add(sb.toString());
                 
             }

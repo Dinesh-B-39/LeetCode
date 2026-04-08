@@ -9,7 +9,7 @@ class Solution {
             sb.append('a');
             list.add(sb.toString());
            
-            while(!temp.toString().equals(sb.toString()))
+            while(temp.charAt(temp.length()-1)!=sb.charAt(sb.length()-1))
             {
                 
                 char c=sb.charAt(sb.length()-1);

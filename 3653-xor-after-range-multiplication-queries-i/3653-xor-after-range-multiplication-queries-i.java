@@ -10,7 +10,7 @@ class Solution {
             int idx=l;
             while(idx<=r)
             {
-                nums[idx]=(int)((1L*nums[idx]*v)%mod);
+                nums[idx]=(int)(((long)nums[idx]*v)%mod);
                 idx+=k;
             }
         }

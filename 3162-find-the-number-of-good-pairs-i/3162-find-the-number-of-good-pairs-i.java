@@ -9,8 +9,7 @@ class Solution {
             {
                 if((nums1[i]%(nums2[j]*k))==0)
                 {
-                    System.out.print(i+" "+j);
-                    System.out.println();
+                    
                     c+=1;
                 }
                 

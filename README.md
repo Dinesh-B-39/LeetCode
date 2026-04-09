@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Dinesh-B-39/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dinesh-B-39/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Dinesh-B-39/LeetCode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/Dinesh-B-39/LeetCode/tree/master/3531-count-covered-buildings) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Dinesh-B-39/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Dinesh-B-39/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Dinesh-B-39/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Dinesh-B-39/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |

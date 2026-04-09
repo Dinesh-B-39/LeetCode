@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Dinesh-B-39/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Dinesh-B-39/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Dinesh-B-39/LeetCode/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/Dinesh-B-39/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0874-walking-robot-simulation](https://github.com/Dinesh-B-39/LeetCode/tree/master/0874-walking-robot-simulation) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/Dinesh-B-39/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/Dinesh-B-39/LeetCode/tree/master/0565-array-nesting) |
 | [0575-distribute-candies](https://github.com/Dinesh-B-39/LeetCode/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Dinesh-B-39/LeetCode/tree/master/0605-can-place-flowers) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Dinesh-B-39/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dinesh-B-39/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Dinesh-B-39/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |

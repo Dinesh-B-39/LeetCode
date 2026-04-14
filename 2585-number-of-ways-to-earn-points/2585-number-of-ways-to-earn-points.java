@@ -2,18 +2,15 @@ class Solution {
     int mod=1000000007;
     public int check(int target,int[][] types,int ind,int[][][] dp)
     {
-        if(ind==types.length && target==0)
+     if(target==0)
         {
-            return 1;
+          return 1;
         }
         if(ind==types.length)
         {
             return 0;
         }
-        if(target==0)
-        {
-          return 1;
-        }
+    
         if(dp[target][ind][types[ind][0]]!=-1)
         {
             return dp[target][ind][types[ind][0]];

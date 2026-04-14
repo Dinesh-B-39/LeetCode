@@ -27,7 +27,6 @@ class Solution {
 
     }
     public int waysToReachTarget(int target, int[][] types) {
-        
         int[][][] dp=new int[target+1][types.length][51];
         for(int i=0;i<dp.length;i++)
         {

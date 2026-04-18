@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Dinesh-B-39/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [4055-longest-balanced-substring-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 | [4107-find-missing-elements](https://github.com/Dinesh-B-39/LeetCode/tree/master/4107-find-missing-elements) |
 ## String
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3693-climbing-stairs-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Dinesh-B-39/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/Dinesh-B-39/LeetCode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 | [4107-find-missing-elements](https://github.com/Dinesh-B-39/LeetCode/tree/master/4107-find-missing-elements) |
 ## Two Pointers
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Dinesh-B-39/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dinesh-B-39/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Dinesh-B-39/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/Dinesh-B-39/LeetCode/tree/master/4051-remove-zeros-in-decimal-representation) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/Dinesh-B-39/LeetCode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |

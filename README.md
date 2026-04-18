@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dinesh-B-39/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Dinesh-B-39/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Dinesh-B-39/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/Dinesh-B-39/LeetCode/tree/master/4051-remove-zeros-in-decimal-representation) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/Dinesh-B-39/LeetCode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Geometry

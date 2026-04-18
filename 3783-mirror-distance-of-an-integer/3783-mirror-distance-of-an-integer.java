@@ -1,16 +1,18 @@
 class Solution {
-    public int check(int n)
+    public int check(int num)
     {
         int z=0;
-        while(n>0)
+        while(num>0)
         {
-            z=(z*10)+(n%10);
-            n=n/10;
+            int x=num%10;
+            z=(z*10)+x;
+            num=num/10;
         }
         return z;
     }
     public int mirrorDistance(int n) {
-        return Math.abs(check(n)-n);
+        int v=check(n);
+        return Math.abs(v-n);
         
     }
 }

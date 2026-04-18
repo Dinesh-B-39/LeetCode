@@ -24,7 +24,7 @@ class Solution {
             int high=temp.size()-1;
             if(low==high)
             {
-                queries[i]=-1;
+                list.add(-1);
                 continue;
             }
             int val=-1;
@@ -61,13 +61,10 @@ class Solution {
             {
                 mine=Math.min(temp.get(val)-temp.get(val-1),temp.get(val+1)-temp.get(val));
             }
-            queries[i]=mine;
+            list.add(mine);
 
         }
-        for(int i:queries)
-        {
-            list.add(i);
-        }
+      
         return list;
     }
 }

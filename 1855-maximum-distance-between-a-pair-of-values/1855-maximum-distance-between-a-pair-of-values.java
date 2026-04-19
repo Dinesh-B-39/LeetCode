@@ -14,7 +14,7 @@ class Solution {
     }
     public int maxDistance(int[] nums1, int[] nums2) {
         reverse(nums2);
-        int maxe=Integer.MIN_VALUE;
+        int maxe=0;
         for(int i=0;i<nums1.length;i++)
         {
             int left=0;
@@ -38,10 +38,7 @@ class Solution {
                 }
             }
         }
-        if(maxe==Integer.MIN_VALUE)
-        {
-            return 0;
-        }
+        
         return maxe;
         
     }

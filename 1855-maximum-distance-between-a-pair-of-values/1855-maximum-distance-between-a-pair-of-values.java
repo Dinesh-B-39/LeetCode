@@ -13,7 +13,7 @@ class Solution {
         }
     }
     public int maxDistance(int[] nums1, int[] nums2) {
-        reverse(nums2);
+        
         int maxe=0;
         for(int i=0;i<nums1.length;i++)
         {
@@ -24,18 +24,18 @@ class Solution {
                 int mid=(left+right)/2;
                 if(nums2[mid]<nums1[i])
                 {
-                    left=mid+1;
-                }
-                else if(nums2[mid]>=nums1[i] && nums2.length-1-mid>=i)
-                {
-                    // System.out.println(nums2.length-1-mid-i);
-                    maxe=Math.max(maxe,nums2.length-1-mid-i);
                     right=mid-1;
+                }
+                else if(nums2[mid]>=nums1[i] && mid>=i)
+                {
+                    maxe=Math.max(maxe,mid-i);
+                    left=mid+1;
                 }
                 else
                 {
-                    right=mid-1;
+                    left=mid+1;
                 }
+                
             }
         }
         

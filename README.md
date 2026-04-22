@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Dinesh-B-39/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Dinesh-B-39/LeetCode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Dinesh-B-39/LeetCode/tree/master/0204-count-primes) |
+| [0263-ugly-number](https://github.com/Dinesh-B-39/LeetCode/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/Dinesh-B-39/LeetCode/tree/master/0279-perfect-squares) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Dinesh-B-39/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |

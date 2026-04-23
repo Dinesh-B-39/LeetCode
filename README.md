@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2182-construct-string-with-repeat-limit](https://github.com/Dinesh-B-39/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Dinesh-B-39/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Dinesh-B-39/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2615-sum-of-distances](https://github.com/Dinesh-B-39/LeetCode/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dinesh-B-39/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2585-number-of-ways-to-earn-points](https://github.com/Dinesh-B-39/LeetCode/tree/master/2585-number-of-ways-to-earn-points) |
+| [2615-sum-of-distances](https://github.com/Dinesh-B-39/LeetCode/tree/master/2615-sum-of-distances) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2751-robot-collisions](https://github.com/Dinesh-B-39/LeetCode/tree/master/2751-robot-collisions) |
 | [2788-split-strings-by-separator](https://github.com/Dinesh-B-39/LeetCode/tree/master/2788-split-strings-by-separator) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Dinesh-B-39/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Dinesh-B-39/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2615-sum-of-distances](https://github.com/Dinesh-B-39/LeetCode/tree/master/2615-sum-of-distances) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2906-construct-product-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Dinesh-B-39/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |

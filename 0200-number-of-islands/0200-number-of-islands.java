@@ -1,50 +1,46 @@
 class Solution {
-    public int check(int i,int j,char[][] grid,int[][] temp)
+   
+    public void check(int i,int j,char[][] grid,int[][] temp)
     {
         temp[i][j]=-1;
-        //left
-        if(j-1>=0 && grid[i][j-1]=='1' && temp[i][j-1]==0)
-        {
-            j-=1;
-            check(i,j,grid,temp);
-            j+=1;
-        }
-        //right
-        if(j+1<grid[0].length && grid[i][j+1]=='1' && temp[i][j+1]==0)
-        {
-            j+=1;
-            check(i,j,grid,temp);
-            j-=1;
-        }
         //top
-        if(i-1>=0 && grid[i-1][j]=='1' && temp[i-1][j]==0)
+        if(i-1>=0 && grid[i-1][j]=='1' && temp[i-1][j]!=-1)
         {
-            i-=1;
-             check(i,j,grid,temp);
-             i+=1;
+            check(i-1,j,grid,temp);
+            
         }
-        //down
-        if(i+1<grid.length && grid[i+1][j]=='1' && temp[i+1][j]==0)
+        //left
+        if(j-1>=0 && grid[i][j-1]=='1' && temp[i][j-1]!=-1)
         {
-            i+=1;
-            check(i,j,grid,temp);
-            i-=1;
+            check(i,j-1,grid,temp);
         }
-        return 1;
+
+        //right
+        if(j+1<grid[0].length && grid[i][j+1]=='1' && temp[i][j+1]!=-1)
+        {
+            check(i,j+1,grid,temp);
+        }
+        //bottom
+        if(i+1<grid.length && grid[i+1][j]=='1' && temp[i+1][j]!=-1)
+        {
+            check(i+1,j,grid,temp);
+        }
+        return;
     }
     public int numIslands(char[][] grid) {
+        int tot=0;
         int[][] temp=new int[grid.length][grid[0].length];
-        int c=0;
         for(int i=0;i<grid.length;i++)
         {
             for(int j=0;j<grid[0].length;j++)
             {
-                if(grid[i][j]=='1' && temp[i][j]==0)
+                if(temp[i][j]!=-1 && grid[i][j]=='1')
                 {
-                    c+=check(i,j,grid,temp);
+                    check(i,j,grid,temp);
+                    tot+=1;
                 }
             }
         }
-        return c;
+        return tot;
     }
 }

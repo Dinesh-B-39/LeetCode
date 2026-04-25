@@ -2,10 +2,7 @@ class Solution {
     Boolean flag=false;
     public void check(int i,int j,int ind,char[][] board,String word,int[][] temp)
     {
-        if(flag)
-        {
-            return;
-        }
+      
        
         if(ind==word.length())
         {

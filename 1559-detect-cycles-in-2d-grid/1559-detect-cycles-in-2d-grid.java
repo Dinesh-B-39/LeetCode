@@ -17,7 +17,7 @@ class Solution {
             else if(temp[i-1][j]==-1 && (i-1!=p1 && j!=p2))
             {
                 flag=true;
-                System.out.println(i+" "+j);
+             
                 return;
             }
         }
@@ -34,7 +34,7 @@ class Solution {
             else if(temp[i+1][j]==-1 && (i+1!=p1 && j!=p2))
             {
                 flag=true;
-                System.out.print(i+" "+j);
+               
                 return;
             }
 
@@ -51,7 +51,7 @@ class Solution {
             else if(temp[i][j-1]==-1 && (i!=p1 && j-1!=p2))
             {
                 flag=true;
-                System.out.print(i+" "+j);
+               
                 return;
             }
         }
@@ -66,7 +66,7 @@ class Solution {
             else if(temp[i][j+1]==-1 && (i!=p1 && j+1!=p2))
             {
                 flag=true;
-                System.out.print(i+" "+j);
+               
                 return;
             }
 

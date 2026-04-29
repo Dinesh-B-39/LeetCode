@@ -28,7 +28,7 @@ class Solution {
             for(int j=0;j<limit;j++)
             {
                 list.add(c);
-                System.out.println(c);
+               
             }
         }
         StringBuilder sb=new StringBuilder();

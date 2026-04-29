@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dinesh-B-39/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Dinesh-B-39/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dinesh-B-39/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Dinesh-B-39/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Dinesh-B-39/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dinesh-B-39/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Dinesh-B-39/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Dinesh-B-39/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Dinesh-B-39/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2463-minimum-total-distance-traveled](https://github.com/Dinesh-B-39/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/Dinesh-B-39/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Dinesh-B-39/LeetCode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Dinesh-B-39/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Dinesh-B-39/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Dinesh-B-39/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -697,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Dinesh-B-39/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Dinesh-B-39/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2906-construct-product-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/2906-construct-product-matrix) |

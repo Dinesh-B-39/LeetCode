@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Dinesh-B-39/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0377-combination-sum-iv](https://github.com/Dinesh-B-39/LeetCode/tree/master/0377-combination-sum-iv) |
+| [0396-rotate-function](https://github.com/Dinesh-B-39/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Dinesh-B-39/LeetCode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Dinesh-B-39/LeetCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Dinesh-B-39/LeetCode/tree/master/0279-perfect-squares) |
+| [0396-rotate-function](https://github.com/Dinesh-B-39/LeetCode/tree/master/0396-rotate-function) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Dinesh-B-39/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dinesh-B-39/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0377-combination-sum-iv](https://github.com/Dinesh-B-39/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Dinesh-B-39/LeetCode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/Dinesh-B-39/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/0518-coin-change-ii) |

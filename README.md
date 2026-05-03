@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Dinesh-B-39/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Dinesh-B-39/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0771-jewels-and-stones](https://github.com/Dinesh-B-39/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/0796-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Dinesh-B-39/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Dinesh-B-39/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1143-longest-common-subsequence](https://github.com/Dinesh-B-39/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -789,4 +790,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Dinesh-B-39/LeetCode/tree/master/0175-combine-two-tables) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

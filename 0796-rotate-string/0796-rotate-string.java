@@ -1,6 +1,5 @@
 class Solution {
     public boolean rotateString(String s, String goal) {
-        String s1=s;
         if(s.equals(goal))
         {
             return true;

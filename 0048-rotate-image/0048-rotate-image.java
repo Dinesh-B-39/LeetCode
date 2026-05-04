@@ -1,36 +1,32 @@
 class Solution {
-    public void chan(int[] matrix)
+    public void check(int[] temp)
     {
-        for(int i=0;i<matrix.length/2;i++)
+        for(int i=0;i<temp.length/2;i++)
         {
-            int temp=matrix[i];
-            matrix[i]=matrix[matrix.length-1-i];
-            matrix[matrix.length-i-1]=temp;
+            int m=temp[i];
+            temp[i]=temp[temp.length-i-1];
+            temp[temp.length-i-1]=m;
         }
     }
     public void rotate(int[][] matrix) {
-        int[][] check=new int[matrix.length][matrix.length];
+        int[][] temp=new int[matrix.length][matrix[0].length];
         for(int i=0;i<matrix.length;i++)
         {
             for(int j=0;j<matrix[0].length;j++)
             {
-                if(check[i][j]!=-1)
+                if(temp[i][j]!=-1)
                 {
-                    int temp=matrix[i][j];
+                    int m=matrix[i][j];
                     matrix[i][j]=matrix[j][i];
-                    matrix[j][i]=temp;
-                    check[i][j]=-1;
-                    check[j][i]=-1;
+                    matrix[j][i]=m;
+                    temp[j][i]=-1;
                 }
-
             }
         }
         for(int i=0;i<matrix.length;i++)
         {
-           
-           chan(matrix[i]);
+            check(matrix[i]);
         }
-
         
     }
 }

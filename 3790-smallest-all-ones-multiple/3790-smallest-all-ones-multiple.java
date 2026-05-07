@@ -4,16 +4,16 @@ class Solution {
         {
             return -1;
         }
-        int num=0;
-        for(int i=1;i<=k;i++)
+        int c=0;
+        int m=0;
+        while(true)
         {
-            num=((num*10)+1)%k;
-            if(num==0)
-            {
-                return i;
-            }
-            
+           m=((m*10)+1)%k;
+           c+=1;
+           if(m%k==0)
+           {
+            return c;
+           }
         }
-        return -1;
     }
 }

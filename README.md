@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Dinesh-B-39/LeetCode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3713-longest-balanced-substring-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Dinesh-B-39/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 | [4055-longest-balanced-substring-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 ## Queue
 |  |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Dinesh-B-39/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Dinesh-B-39/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Dinesh-B-39/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Binary Search
 |  |
 | ------- |

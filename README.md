@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/Dinesh-B-39/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2585-number-of-ways-to-earn-points](https://github.com/Dinesh-B-39/LeetCode/tree/master/2585-number-of-ways-to-earn-points) |
 | [2615-sum-of-distances](https://github.com/Dinesh-B-39/LeetCode/tree/master/2615-sum-of-distances) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Dinesh-B-39/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/Dinesh-B-39/LeetCode/tree/master/2751-robot-collisions) |
 | [2899-last-visited-integers](https://github.com/Dinesh-B-39/LeetCode/tree/master/2899-last-visited-integers) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Dinesh-B-39/LeetCode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |

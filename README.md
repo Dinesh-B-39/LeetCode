@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Dinesh-B-39/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Dinesh-B-39/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2615-sum-of-distances](https://github.com/Dinesh-B-39/LeetCode/tree/master/2615-sum-of-distances) |
+| [2784-check-if-array-is-good](https://github.com/Dinesh-B-39/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dinesh-B-39/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/Dinesh-B-39/LeetCode/tree/master/2615-sum-of-distances) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2751-robot-collisions](https://github.com/Dinesh-B-39/LeetCode/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/Dinesh-B-39/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2788-split-strings-by-separator](https://github.com/Dinesh-B-39/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [2899-last-visited-integers](https://github.com/Dinesh-B-39/LeetCode/tree/master/2899-last-visited-integers) |
 | [2906-construct-product-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/2906-construct-product-matrix) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/Dinesh-B-39/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2751-robot-collisions](https://github.com/Dinesh-B-39/LeetCode/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/Dinesh-B-39/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |

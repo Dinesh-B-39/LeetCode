@@ -1,27 +1,29 @@
 class Solution {
-    public boolean check(int ind,int[] arr,Boolean[] dp)
+    public boolean check(int ind,int[] arr,int[] visited)
     {
-         if(ind<0 ||ind>=arr.length)
-        {
-            return false;
-        }
         if(arr[ind]==0)
         {
             return true;
         }
-        if(dp[ind]!=null)
+        boolean s1=false;
+        boolean s2=false;
+        if(ind+arr[ind]<arr.length && visited[ind+arr[ind]]!=-1)
         {
-            return dp[ind];
+            visited[ind+arr[ind]]=-1;
+            s1=check(ind+arr[ind],arr,visited);
+            visited[ind+arr[ind]]=0;
         }
-        dp[ind]=false;
-        boolean take=check(ind+arr[ind],arr,dp);
-        boolean non_take=check(ind-arr[ind],arr,dp);
-        dp[ind]=take || non_take;
-        return dp[ind];
+        if(ind-arr[ind]>=0 && visited[ind-arr[ind]]!=-1)
+        {
+            visited[ind-arr[ind]]=-1;
+            s2=check(ind-arr[ind],arr,visited);
+            visited[ind-arr[ind]]=0;
+        }
+        return s1 || s2;
     }
     public boolean canReach(int[] arr, int start) {
-        Boolean[] dp=new Boolean[arr.length];
-        return check(start,arr,dp);
+        int[] visited=new int[arr.length];
+        return check(start,arr,visited);
         
     }
 }

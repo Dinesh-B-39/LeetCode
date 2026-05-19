@@ -823,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/Dinesh-B-39/LeetCode/tree/master/0577-employee-bonus) |
 | [0607-sales-person](https://github.com/Dinesh-B-39/LeetCode/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/Dinesh-B-39/LeetCode/tree/master/0610-triangle-judgement) |
+| [0619-biggest-single-number](https://github.com/Dinesh-B-39/LeetCode/tree/master/0619-biggest-single-number) |
 ## String Matching
 |  |
 | ------- |

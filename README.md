@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Dinesh-B-39/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dinesh-B-39/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Dinesh-B-39/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Dinesh-B-39/LeetCode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3488-closest-equal-element-queries](https://github.com/Dinesh-B-39/LeetCode/tree/master/3488-closest-equal-element-queries) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/Dinesh-B-39/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Dinesh-B-39/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Dinesh-B-39/LeetCode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Dinesh-B-39/LeetCode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3713-longest-balanced-substring-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3713-longest-balanced-substring-i) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dinesh-B-39/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Dinesh-B-39/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Dinesh-B-39/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Dinesh-B-39/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -690,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Dinesh-B-39/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Dinesh-B-39/LeetCode/tree/master/0139-word-break) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Dinesh-B-39/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Dinesh-B-39/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Divide and Conquer
 |  |
 | ------- |

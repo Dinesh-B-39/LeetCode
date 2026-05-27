@@ -23,13 +23,13 @@ class Solution {
             {
                 if(temp[n-65]==arr1[n-65] && temp[n-65]!=0)
                 {
-                    temp[n-65]=-1;
+                    // temp[n-65]=-1;
                     c+=1;
                 }
-                else
-                {
+                // else
+                // {
                     temp[n-65]=-1;
-                }
+                // }
             }
         }
         return c;

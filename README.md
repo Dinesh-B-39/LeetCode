@@ -849,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/1148-article-views-i) |
+| [1211-queries-quality-and-percentage](https://github.com/Dinesh-B-39/LeetCode/tree/master/1211-queries-quality-and-percentage) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Dinesh-B-39/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1407-top-travellers](https://github.com/Dinesh-B-39/LeetCode/tree/master/1407-top-travellers) |
 ## String Matching

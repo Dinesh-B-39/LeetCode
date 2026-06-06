@@ -852,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-queries-quality-and-percentage](https://github.com/Dinesh-B-39/LeetCode/tree/master/1211-queries-quality-and-percentage) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Dinesh-B-39/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1407-top-travellers](https://github.com/Dinesh-B-39/LeetCode/tree/master/1407-top-travellers) |
+| [1795-rearrange-products-table](https://github.com/Dinesh-B-39/LeetCode/tree/master/1795-rearrange-products-table) |
 ## String Matching
 |  |
 | ------- |

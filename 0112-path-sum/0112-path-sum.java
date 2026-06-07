@@ -17,7 +17,7 @@ class Solution {
     boolean flag=false;
     public void check(TreeNode root,int k,int c)
     {
-        if(root==null)
+        if(root==null || flag)
         {
             return;
         }

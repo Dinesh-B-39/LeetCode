@@ -558,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Dinesh-B-39/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dinesh-B-39/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dinesh-B-39/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Dinesh-B-39/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dinesh-B-39/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Dinesh-B-39/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dinesh-B-39/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dinesh-B-39/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Dinesh-B-39/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dinesh-B-39/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Number Theory
 |  |
@@ -876,4 +878,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dinesh-B-39/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dinesh-B-39/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Dinesh-B-39/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->

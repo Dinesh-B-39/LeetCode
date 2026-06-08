@@ -17,7 +17,7 @@ class Solution {
      TreeNode res=null;
      public void check(TreeNode root,int val)
      {
-        if(root==null)
+        if(root==null || res!=null)
         {
             return;
         }

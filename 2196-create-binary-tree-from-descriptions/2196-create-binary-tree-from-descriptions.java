@@ -82,12 +82,12 @@ class Solution {
                 }
             }
         }
-        for(int i:map.keySet())
-        {
-            System.out.print(i+"->");
-            System.out.print(map.get(i)[0]+","+map.get(i)[1]);
-            System.out.println();
-        }
+        // for(int i:map.keySet())
+        // {
+        //     System.out.print(i+"->");
+        //     System.out.print(map.get(i)[0]+","+map.get(i)[1]);
+        //     System.out.println();
+        // }
              return buildTree(root,map,root1);
             // return root;
         

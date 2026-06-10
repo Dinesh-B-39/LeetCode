@@ -16,11 +16,11 @@
 class Solution {
     public TreeNode buildTree(TreeNode root,HashMap<Integer,int[]> map,int data)
     {
-        if(root==null)
-        {
+        // if(root==null)
+        // {
 
-            return root;
-        }
+        //     return root;
+        // }
           if(!map.containsKey(root.val))
     {
         return root;

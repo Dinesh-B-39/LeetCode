@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Dinesh-B-39/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dinesh-B-39/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Dinesh-B-39/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Dinesh-B-39/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Dinesh-B-39/LeetCode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Dinesh-B-39/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Dinesh-B-39/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dinesh-B-39/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Dinesh-B-39/LeetCode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Dinesh-B-39/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Dinesh-B-39/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/Dinesh-B-39/LeetCode/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Dinesh-B-39/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/Dinesh-B-39/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Dinesh-B-39/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Dinesh-B-39/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Dinesh-B-39/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Dinesh-B-39/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/2470-removing-stars-from-a-string) |

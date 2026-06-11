@@ -566,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Dinesh-B-39/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dinesh-B-39/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Dinesh-B-39/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Dinesh-B-39/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dinesh-B-39/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dinesh-B-39/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Dinesh-B-39/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dinesh-B-39/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Dinesh-B-39/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Dinesh-B-39/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dinesh-B-39/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dinesh-B-39/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Number Theory
@@ -800,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0565-array-nesting](https://github.com/Dinesh-B-39/LeetCode/tree/master/0565-array-nesting) |
 | [0695-max-area-of-island](https://github.com/Dinesh-B-39/LeetCode/tree/master/0695-max-area-of-island) |
+| [0938-range-sum-of-bst](https://github.com/Dinesh-B-39/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dinesh-B-39/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1306-jump-game-iii](https://github.com/Dinesh-B-39/LeetCode/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -888,4 +891,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dinesh-B-39/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dinesh-B-39/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Dinesh-B-39/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Dinesh-B-39/LeetCode/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->

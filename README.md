@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Dinesh-B-39/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Dinesh-B-39/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Dinesh-B-39/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dinesh-B-39/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Dinesh-B-39/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dinesh-B-39/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Dinesh-B-39/LeetCode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dinesh-B-39/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dinesh-B-39/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Dinesh-B-39/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/Dinesh-B-39/LeetCode/tree/master/2540-minimum-common-value) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/Dinesh-B-39/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Dinesh-B-39/LeetCode/tree/master/0946-validate-stack-sequences) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dinesh-B-39/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Dinesh-B-39/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2751-robot-collisions](https://github.com/Dinesh-B-39/LeetCode/tree/master/2751-robot-collisions) |

@@ -15,6 +15,12 @@ class Solution {
         {
             return dummy;
         }
+        if(dummy==null)
+        {
+            ListNode temp=head.next;
+            head.next=null;
+            return reverse(temp,head);
+        }
         ListNode temp=head.next;
         head.next=dummy;
         dummy=head;
@@ -40,9 +46,10 @@ class Solution {
        
         ListNode head2=temp.next;
         temp.next=null;
-        ListNode dummy=new ListNode(head2.val);
+        // ListNode dummy=new ListNode(head2.val);
         // dummy.next=null;
-        head2=reverse(head2.next,dummy);
+        ListNode dummy=null;
+        head2=reverse(head2,dummy);
         ListNode temp1=head;
         ListNode temp2=head2;
         // while(temp2!=null)

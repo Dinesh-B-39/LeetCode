@@ -23,11 +23,11 @@ class Solution {
             slow=slow.next;
             fast=fast.next.next;
         }
-        if(prev==null)
-        {
-            slow.next=null;
-            return head;
-        }
+        // if(prev==null)
+        // {
+        //     slow.next=null;
+        //     return head;
+        // }
         prev.next=slow.next;
         return head;
         

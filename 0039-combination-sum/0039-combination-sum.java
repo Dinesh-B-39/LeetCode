@@ -6,20 +6,20 @@ class Solution {
         {
              if(target==0)
             {
-            if(!res.contains(list))
-                {
+            // if(!res.contains(list))
+            //     {
                     res.add(new ArrayList<>(list));
-                }
+                // }
            
             }
              return;
         }
         if(target==0)
         {
-            if(!res.contains(list))
-            {
+            // if(!res.contains(list))
+            // {
                 res.add(new ArrayList<>(list));
-            }
+            // }
             return;
         }
        

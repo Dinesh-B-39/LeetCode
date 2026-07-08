@@ -1,19 +1,21 @@
 class Solution {
     public long sumAndMultiply(int n) {
+        long d=1;
         long c=0;
-        long m=0;
-        StringBuilder sb=new StringBuilder(n+"");
-        for(int i=0;i<sb.length();i++)
+        long sum=0;
+        while(n!=0)
         {
-            
-            if(sb.charAt(i)!='0')
+            int p=n%10;
+            if(p!=0)
             {
-                int z=sb.charAt(i)-'0';
-                c=(c*10)+z;
-                m+=z;
+                c=(p*d)+c;
+                sum+=p;
+                d=d*10;
             }
-            
+            n=n/10;
         }
-        return c*m;
+        return c*sum;
+
+        
     }
 }

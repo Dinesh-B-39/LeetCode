@@ -915,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-top-travellers](https://github.com/Dinesh-B-39/LeetCode/tree/master/1407-top-travellers) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Dinesh-B-39/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1729-find-followers-count](https://github.com/Dinesh-B-39/LeetCode/tree/master/1729-find-followers-count) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Dinesh-B-39/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/Dinesh-B-39/LeetCode/tree/master/1789-primary-department-for-each-employee) |
 | [1795-rearrange-products-table](https://github.com/Dinesh-B-39/LeetCode/tree/master/1795-rearrange-products-table) |
 | [1965-employees-with-missing-information](https://github.com/Dinesh-B-39/LeetCode/tree/master/1965-employees-with-missing-information) |

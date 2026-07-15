@@ -1,34 +1,39 @@
 class Solution {
+    public int[] check(String s)
+    {
+        int[] arr=new int[26];
+        for(int i=0;i<s.length();i++)
+        {
+            arr[s.charAt(i)-'a']+=1;
+        }
+        return arr;
+    }
     public List<List<String>> groupAnagrams(String[] strs) {
+        int[] visited=new int[strs.length];
         List<List<String>> res=new ArrayList<>();
-        HashMap<String,List<String>> map=new HashMap<>();
         for(int i=0;i<strs.length;i++)
         {
-            int[] arr=new int[26];
-            for(int j=0;j<strs[i].length();j++)
+            if(visited[i]!=-1)
             {
-                arr[strs[i].charAt(j)-'a']+=1;
+            List<String> list=new ArrayList<>();
+            int[] arr=check(strs[i]);
+            list.add(strs[i]);
+            visited[i]=-1;
+            for(int j=i+1;j<strs.length;j++)
+            {
+                if(visited[j]!=-1)
+                {
+                if(Arrays.equals(arr,check(strs[j])))
+                {
+                    list.add(strs[j]);
+                    visited[j]=-1;
+                }
+                }
             }
-            String ji=Arrays.toString(arr);
-            if(map.containsKey(ji))
-            {
-                List<String> str=new ArrayList<>(map.get(ji));
-                str.add(strs[i]);
-                map.put(ji,str);
-            }
-            else
-            {
-                List<String> str=new ArrayList<>();
-                str.add(strs[i]);
-                map.put(ji,str);
+            res.add(list);
             }
         }
-        for(String ji:map.keySet())
-        {
-            res.add(map.get(ji));
-        }
+
         return res;
     }
-
-
 }

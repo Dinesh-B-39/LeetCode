@@ -660,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Dinesh-B-39/LeetCode/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/Dinesh-B-39/LeetCode/tree/master/1291-sequential-digits) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Dinesh-B-39/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |

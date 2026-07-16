@@ -20,7 +20,7 @@ class Solution {
         for(int i=0;i<nums.length;i++)
         {
             res[i]=gcd(nums[i],pref[i]);
-            System.out.print(res[i]+" ");
+          
         }
         Arrays.sort(res);
         long sum=0;

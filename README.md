@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Dinesh-B-39/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Dinesh-B-39/LeetCode/tree/master/0575-distribute-candies) |
+| [0697-degree-of-an-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/Dinesh-B-39/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0874-walking-robot-simulation](https://github.com/Dinesh-B-39/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/Dinesh-B-39/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Dinesh-B-39/LeetCode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Dinesh-B-39/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0695-max-area-of-island](https://github.com/Dinesh-B-39/LeetCode/tree/master/0695-max-area-of-island) |
+| [0697-degree-of-an-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Dinesh-B-39/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dinesh-B-39/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dinesh-B-39/LeetCode/tree/master/0746-min-cost-climbing-stairs) |

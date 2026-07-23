@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Dinesh-B-39/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Dinesh-B-39/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Dinesh-B-39/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Dinesh-B-39/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dinesh-B-39/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Dinesh-B-39/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Dinesh-B-39/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Dinesh-B-39/LeetCode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Dinesh-B-39/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Dinesh-B-39/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Dinesh-B-39/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Dinesh-B-39/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Dinesh-B-39/LeetCode/tree/master/0078-subsets) |
 | [0491-non-decreasing-subsequences](https://github.com/Dinesh-B-39/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Dinesh-B-39/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dinesh-B-39/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |

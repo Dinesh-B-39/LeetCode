@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Dinesh-B-39/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Dinesh-B-39/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dinesh-B-39/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Dinesh-B-39/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Dinesh-B-39/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Dinesh-B-39/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Dinesh-B-39/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Dinesh-B-39/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Dinesh-B-39/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Dinesh-B-39/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dinesh-B-39/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Dinesh-B-39/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Dinesh-B-39/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dinesh-B-39/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Dinesh-B-39/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Dinesh-B-39/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Dinesh-B-39/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Dinesh-B-39/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |

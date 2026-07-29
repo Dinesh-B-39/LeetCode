@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1306-jump-game-iii](https://github.com/Dinesh-B-39/LeetCode/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Dinesh-B-39/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dinesh-B-39/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Dinesh-B-39/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dinesh-B-39/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dinesh-B-39/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dinesh-B-39/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Dinesh-B-39/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Dinesh-B-39/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Dinesh-B-39/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dinesh-B-39/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Dinesh-B-39/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -706,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Dinesh-B-39/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Dinesh-B-39/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -821,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Dinesh-B-39/LeetCode/tree/master/0994-rotting-oranges) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |

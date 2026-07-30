@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/Dinesh-B-39/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Dinesh-B-39/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Dinesh-B-39/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Dinesh-B-39/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Dinesh-B-39/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Dinesh-B-39/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2470-removing-stars-from-a-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Dinesh-B-39/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Dinesh-B-39/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Dinesh-B-39/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Dinesh-B-39/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -715,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/Dinesh-B-39/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Dinesh-B-39/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Dinesh-B-39/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Dinesh-B-39/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dinesh-B-39/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dinesh-B-39/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |

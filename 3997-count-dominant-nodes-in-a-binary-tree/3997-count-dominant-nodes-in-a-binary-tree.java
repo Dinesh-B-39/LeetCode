@@ -25,7 +25,7 @@ class Solution {
         int s2=check(root.right);
         if(root.val>=s1 && root.val>=s2)
         {
-            System.out.println(root.val);
+            
             c+=1;
         }
         return Math.max(root.val,Math.max(s1,s2));

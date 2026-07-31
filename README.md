@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Dinesh-B-39/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dinesh-B-39/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Dinesh-B-39/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Dinesh-B-39/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2182-construct-string-with-repeat-limit](https://github.com/Dinesh-B-39/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Dinesh-B-39/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2833-furthest-point-from-origin](https://github.com/Dinesh-B-39/LeetCode/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Dinesh-B-39/LeetCode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3713-longest-balanced-substring-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [4055-longest-balanced-substring-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/4055-longest-balanced-substring-i) |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Dinesh-B-39/LeetCode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Dinesh-B-39/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/Dinesh-B-39/LeetCode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
@@ -466,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Dinesh-B-39/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Dinesh-B-39/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3531-count-covered-buildings](https://github.com/Dinesh-B-39/LeetCode/tree/master/3531-count-covered-buildings) |

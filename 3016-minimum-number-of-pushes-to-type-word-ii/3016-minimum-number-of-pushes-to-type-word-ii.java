@@ -1,21 +1,28 @@
 class Solution {
     public int minimumPushes(String word) {
-        HashMap<Character,Integer> map=new HashMap<>();
+        int[] ar1=new int[26];
+        int p=0;
         for(int i=0;i<word.length();i++)
         {
-            map.put(word.charAt(i),map.getOrDefault(word.charAt(i),0)+1);
+            if(ar1[word.charAt(i)-'a']==0)
+            {
+                p+=1;
+            }
+            ar1[word.charAt(i)-'a']+=1;
+          
         }
-        int[] arr=new int[map.size()];
+        int[] arr=new int[p];
         int j1=0;
-        for(Character i:map.keySet())
+        for(int i=0;i<ar1.length;i++)
         {
-            arr[j1]=map.get(i);
-            j1+=1;
-           
+            if(ar1[i]!=0)
+            {
+                arr[j1]=ar1[i];
+                j1+=1;
+            }
         }
         Arrays.sort(arr);
         int res=0;
-       
         int n=0;
         for(int i=arr.length-1;i>=0;i-=8)
         {

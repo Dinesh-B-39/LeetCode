@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Dinesh-B-39/LeetCode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Dinesh-B-39/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Dinesh-B-39/LeetCode/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/Dinesh-B-39/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Dinesh-B-39/LeetCode/tree/master/0396-rotate-function) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Dinesh-B-39/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0486-predict-the-winner](https://github.com/Dinesh-B-39/LeetCode/tree/master/0486-predict-the-winner) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dinesh-B-39/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Dinesh-B-39/LeetCode/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/Dinesh-B-39/LeetCode/tree/master/0830-largest-triangle-area) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dinesh-B-39/LeetCode/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/Dinesh-B-39/LeetCode/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Stack
 |  |
@@ -768,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Dinesh-B-39/LeetCode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Dinesh-B-39/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/Dinesh-B-39/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/0542-01-matrix) |
@@ -982,4 +986,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Dinesh-B-39/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Dinesh-B-39/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Dinesh-B-39/LeetCode/tree/master/0938-range-sum-of-bst) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Dinesh-B-39/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

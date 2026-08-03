@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Dinesh-B-39/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dinesh-B-39/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Dinesh-B-39/LeetCode/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/Dinesh-B-39/LeetCode/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dinesh-B-39/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Dinesh-B-39/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Dinesh-B-39/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/Dinesh-B-39/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Dinesh-B-39/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Dinesh-B-39/LeetCode/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/Dinesh-B-39/LeetCode/tree/master/1406-stone-game-iii) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Dinesh-B-39/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Dinesh-B-39/LeetCode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Dinesh-B-39/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -791,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Dinesh-B-39/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Dinesh-B-39/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1406-stone-game-iii](https://github.com/Dinesh-B-39/LeetCode/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Dinesh-B-39/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-cherry-pickup-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Dinesh-B-39/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -997,12 +1000,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Dinesh-B-39/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Dinesh-B-39/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Dinesh-B-39/LeetCode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Dinesh-B-39/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Dinesh-B-39/LeetCode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Dinesh-B-39/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Dinesh-B-39/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->

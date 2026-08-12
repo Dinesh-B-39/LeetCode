@@ -3,24 +3,20 @@ class Solution {
         HashMap<Integer,Integer> map=new HashMap<>();
         int i=0;
         int j=0;
-        int maxe=-1;
+        int maxe=Integer.MIN_VALUE;
         while(j<nums.length)
         {
-            // temp[nums[j]]+=1;
             map.put(nums[j],map.getOrDefault(nums[j],0)+1);
             while(map.get(nums[j])>k)
             {
-                int y=map.get(nums[i]);
-               map.put(nums[i],y-1);
-               if(y==1)
-               {
-                map.remove(nums[i]);
-               }
-                i+=1;
+              
+                    map.put(nums[i],map.get(nums[i])-1);
+                    i+=1;
+              
             }
             maxe=Math.max(maxe,j-i+1);
             j+=1;
         }
-        return maxe;
+       return maxe; 
     }
 }

@@ -14,32 +14,29 @@
  * }
  */
 class Solution {
-    int flag=1;
-    public void check(TreeNode root1,TreeNode root2)
+    boolean flag=true;
+    public void check(TreeNode r1,TreeNode r2)
     {
-        if(root1==null && root2==null)
+        if(r1==null && r2==null)
         {
             return;
         }
-        if(flag==0)
+        else if(r1==null || r2==null)
         {
+            flag=false;
             return;
         }
-         if(root1==null || root2==null)
+        if(r1.val!=r2.val)
         {
-            flag=0;
+            flag=false;
             return;
         }
-        if(root1.val!=root2.val)
-        {
-            flag=0;
-        }
-       
-        check(root1.left,root2.right);
-        check(root1.right,root2.left);
+        check(r1.left,r2.right);
+        check(r1.right,r2.left);
     }
     public boolean isSymmetric(TreeNode root) {
         check(root,root);
-        return flag==1;
+        return flag;
+        
     }
 }

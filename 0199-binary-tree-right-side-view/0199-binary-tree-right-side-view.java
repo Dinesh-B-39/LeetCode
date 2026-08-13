@@ -14,7 +14,6 @@
  * }
  */
 class Solution {
-    HashSet<Integer> set=new HashSet<>();
     List<Integer> list=new ArrayList<>();
     public void check(TreeNode root,int level)
     {
@@ -22,10 +21,11 @@ class Solution {
         {
             return;
         }
-        if(!set.contains(level))
+        if(list.size()==level)
         {
-            set.add(level);
+          
             list.add(root.val);
+           
         }
         check(root.right,level+1);
         check(root.left,level+1);

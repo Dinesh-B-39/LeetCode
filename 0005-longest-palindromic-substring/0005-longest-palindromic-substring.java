@@ -13,18 +13,7 @@ class Solution {
                 break;
             }
         }
-        if(i==-1)
-        {
-            return s.substring(i+1,j);
-        }
-    //     else if(j==s.length())
-    //    {
-    //         return s.substring(i,j);
-    //     }
-        // else
-        // {
 
-        // }
         return s.substring(i+1,j);
 
     }

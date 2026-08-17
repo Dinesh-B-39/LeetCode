@@ -14,32 +14,28 @@
  * }
  */
 class Solution {
-    int flag=1;
+    boolean flag=true;
     public void check(TreeNode p,TreeNode q)
     {
         if(p==null && q==null)
         {
             return;
         }
-        if(flag==0)
+        if((p==null & q!=null) || (p!=null && q==null))
         {
-            return;
-        }
-        if(p==null || q==null)
-        {
-            flag=0;
+            flag=false;
             return;
         }
         if(p.val!=q.val)
         {
-            flag=0;
+            flag=false;
         }
         check(p.left,q.left);
         check(p.right,q.right);
     }
     public boolean isSameTree(TreeNode p, TreeNode q) {
         check(p,q);
-        return flag==1;
+        return flag;
         
     }
 }

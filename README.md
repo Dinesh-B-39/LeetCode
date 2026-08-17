@@ -1043,4 +1043,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Dinesh-B-39/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Dinesh-B-39/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

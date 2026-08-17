@@ -17,10 +17,10 @@ class Solution {
     int maxe=0;
     public int check(TreeNode root)
     {
-        if(root.left==null && root.right==null)
-        {
-            return 0;
-        }
+        // if(root.left==null && root.right==null)
+        // {
+        //     return 0;
+        // }
         int left=0;
         int right=0;
         if(root.left!=null)

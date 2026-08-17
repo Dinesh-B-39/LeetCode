@@ -14,18 +14,22 @@
  * }
  */
 class Solution {
-    public int check(TreeNode root)
+    int maxe=Integer.MIN_VALUE;
+    public void check(TreeNode root,int depth)
     {
         if(root==null)
         {
-            return 0;
+            maxe=Math.max(maxe,depth);
+            return;
         }
-        int left=1+check(root.left);
-        int right=1+check(root.right);
-        return Math.max(left,right);
-    }
-    public int maxDepth(TreeNode root) {
-        return check(root);
+        check(root.left,depth+1);
+        check(root.right,depth+1);
         
+    }
+
+
+    public int maxDepth(TreeNode root) {
+        check(root,0);
+        return maxe;
     }
 }

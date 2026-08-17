@@ -15,28 +15,28 @@
  */
 class Solution {
     boolean flag=false;
-    public void check(TreeNode root,int k,int c)
+    public void check(TreeNode root,int target,int k)
     {
-        if(root==null || flag)
-        {
-            return;
-        }
-        c+=root.val;
         if(root.left==null && root.right==null)
         {
-            if(c==k)
+            if(k+root.val==target)
             {
                 flag=true;
             }
-            c-=root.val;
-            return;
         }
-        check(root.left,k,c);
-        check(root.right,k,c);
-        c-=root.val;
+        if(root.left!=null)
+        {
+            check(root.left,target,k+root.val);
+        }
+        if(root.right!=null)
+        {
+            check(root.right,target,k+root.val);
+        }
+        
     }
-    public boolean hasPathSum(TreeNode root, int targetSum) {
-        check(root,targetSum,0);
+    public boolean hasPathSum(TreeNode root, int target) {
+        if(root==null){return false;}
+        check(root,target,0);
         return flag;
         
     }

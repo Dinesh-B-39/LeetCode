@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Dinesh-B-39/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/Dinesh-B-39/LeetCode/tree/master/0221-maximal-square) |
+| [0228-summary-ranges](https://github.com/Dinesh-B-39/LeetCode/tree/master/0228-summary-ranges) |
 | [0300-longest-increasing-subsequence](https://github.com/Dinesh-B-39/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Dinesh-B-39/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |

@@ -1,11 +1,9 @@
 class Solution {
     List<List<String>> res=new ArrayList<>();
-    public boolean palindrome(StringBuilder s)
+    public boolean isPalindrome(String s,int i,int j)
     {
-        int i=0;
-        int j=s.length()-1;
-        while(i<=j)
-        {
+        
+        while(i<=j){
             if(s.charAt(i)!=s.charAt(j))
             {
                 return false;
@@ -15,28 +13,30 @@ class Solution {
         }
         return true;
     }
-    public void check(String s,List<String> list,int ind)
+    public void check(int i,int j,String s,ArrayList<String> list)
     {
-        if(ind==s.length())
+        if(j==s.length()-1)
         {
-            res.add(new ArrayList<String>(list));
+            if(isPalindrome(s,i,j))
+            {
+                list.add(s.substring(i,j+1));
+                res.add(new ArrayList<>(list));
+                list.remove(list.size()-1);
+            }
             return;
         }
-         StringBuilder sb=new StringBuilder();
-        for(int i=ind;i<s.length();i++)
+        if(isPalindrome(s,i,j))
         {
-           sb.append(s.charAt(i));
-           if(palindrome(sb))
-           {
-            list.add(sb.toString());
-            check(s,list,i+1);
+            list.add(s.substring(i,j+1));
+            check(j+1,j+1,s,list);
             list.remove(list.size()-1);
-           }
         }
+        check(i,j+1,s,list);
     }
     public List<List<String>> partition(String s) {
-        List<String> list=new ArrayList<>();
-        check(s,list,0);
+        ArrayList<String> list=new ArrayList<>();
+        check(0,0,s,list);
         return res;
+        
     }
 }

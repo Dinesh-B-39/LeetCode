@@ -1,41 +1,39 @@
 class Solution {
-    public int check(List<List<Integer>> triangle,int i,int j,ArrayList<ArrayList<Integer>> dp)
+    public int check(int i,int j,List<List<Integer>> list,List<List<Integer>> dp)
     {
-        if(i<0 || j<0 || triangle.get(i).size()<=j)
+
+        if(i==list.size()-1)
         {
-            return Integer.MAX_VALUE;
+            return list.get(i).get(j);
         }
-        // if(i==0 && j==0)
-        // {
-        //     return triangle.get(i).get(j);
-        // }
-        if(dp.get(i).get(j)!=null)
+        if(dp.get(i).get(j)!=Integer.MAX_VALUE)
         {
             return dp.get(i).get(j);
         }
-        int top=check(triangle,i-1,j,dp);
-        int dig=check(triangle,i-1,j-1,dp);
-        dp.get(i).set(j,Math.min(top,dig)+triangle.get(i).get(j));
+        int p=list.get(i).get(j);
+        int s1=p+check(i+1,j,list,dp);
+        int s2=0;
+        if(list.get(i+1).size()>j+1)
+        {
+            s2=p+check(i+1,j+1,list,dp);
+        }
+        dp.get(i).set(j,Math.min(s1,s2));
         return dp.get(i).get(j);
 
     }
-    public int minimumTotal(List<List<Integer>> triangle) {
-        ArrayList<ArrayList<Integer>> dp=new ArrayList<>();
-        for(int i=0;i<triangle.size();i++)
+    public int minimumTotal(List<List<Integer>> list) {
+        List<List<Integer>> dp=new ArrayList<>();
+        for(int i=0;i<list.size();i++)
         {
-            ArrayList<Integer> d1=new ArrayList<>();
-            for(int j=0;j<triangle.get(i).size();j++)
+            ArrayList<Integer> temp=new ArrayList<>();
+            for(int j=0;j<list.get(i).size();j++)
             {
-                d1.add(null);
+                temp.add(Integer.MAX_VALUE);
             }
-            dp.add(d1);
+            dp.add(temp);
         }
-        dp.get(0).set(0,triangle.get(0).get(0));
-        int mine=Integer.MAX_VALUE;
-        for(int i=0;i<triangle.get(triangle.size()-1).size();i++)
-        {
-            mine=Math.min(mine,check(triangle,triangle.size()-1,i,dp));
-        }
-        return mine;
+        int m=check(0,0,list,dp);
+        return m;
+        
     }
 }

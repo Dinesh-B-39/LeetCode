@@ -64,17 +64,17 @@ class Solution {
         // {
         //     return true;
         // }
-        list.clear();
+      
         int p=check1(num);
-        System.out.println("p :"+p);
+       
         p=check2(p);
-        System.out.println(list);
+      
          for(int i=0;i<list.size();i++)
         {
          
             if(!checkPrime(list.get(i)))
             {
-                System.out.println("False "+list.get(i));
+              
                 return false;
             }
         }

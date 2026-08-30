@@ -1083,4 +1083,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/0678-valid-parenthesis-string) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Dinesh-B-39/LeetCode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Dinesh-B-39/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

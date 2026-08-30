@@ -18,8 +18,6 @@ class Solution {
                 m1=i;
             }
         }
-        // System.out.println("M1 :"+m1);
-        // System.out.println("M1 :"+m2);
         int z1=Integer.MAX_VALUE;
         if(m1<=m2)
         {

@@ -1,47 +1,42 @@
 class Solution {
-    int mod=(int)1e7;
-    public int check(int[] coins,int ind,int amount,int[][] dp)
+   
+    public int check(int[] arr,int ind,int target,int[][] dp)
     {
-        if(amount==0)
+        if(target==0)
         {
             return 0;
         }
-        if(ind==0)
+        if(ind==arr.length)
         {
-            if(amount%coins[ind]==0)
-            {
-                return amount/coins[ind];
-            }
-            else
-            {
-                return mod;
-            }
+            return Integer.MAX_VALUE-10000;
         }
-        if(dp[ind][amount]!=-1)
+        if(dp[ind][target]!=-1)
         {
-            return dp[ind][amount];
+            return dp[ind][target];
         }
-        int take=Integer.MAX_VALUE;
-        int non_take=check(coins,ind-1,amount,dp);
-        if(coins[ind]<=amount)
+        int s1=Integer.MAX_VALUE;
+        int s2=Integer.MAX_VALUE;
+        if(arr[ind]<=target)
         {
-            take=1+check(coins,ind,amount-coins[ind],dp);
+            s1=1+check(arr,ind,target-arr[ind],dp);
         }
-        dp[ind][amount]=Math.min(take,non_take);
-        return dp[ind][amount];
+        s2=check(arr,ind+1,target,dp);
+        return dp[ind][target]=Math.min(s1,s2);
     }
     public int coinChange(int[] coins, int amount) {
+        Arrays.sort(coins);
         int[][] dp=new int[coins.length][amount+1];
         for(int i=0;i<dp.length;i++)
         {
             Arrays.fill(dp[i],-1);
-           
         }
-        int p=check(coins,coins.length-1,amount,dp);
-        if(p==mod)
+        int f=check(coins,0,amount,dp);
+        if(f>=Integer.MAX_VALUE-10000)
         {
             return -1;
         }
-        return p;
+        return f;
+        
+        
     }
 }

@@ -1,5 +1,5 @@
 class Solution {
-   
+   int mod=(int)1e7;
     public int check(int[] arr,int ind,int target,int[][] dp)
     {
         if(target==0)
@@ -8,7 +8,7 @@ class Solution {
         }
         if(ind==arr.length)
         {
-            return Integer.MAX_VALUE-10000;
+            return mod;
         }
         if(dp[ind][target]!=-1)
         {
@@ -31,7 +31,7 @@ class Solution {
             Arrays.fill(dp[i],-1);
         }
         int f=check(coins,0,amount,dp);
-        if(f>=Integer.MAX_VALUE-10000)
+        if(f==mod)
         {
             return -1;
         }

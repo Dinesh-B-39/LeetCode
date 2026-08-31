@@ -1,56 +1,71 @@
+class Pair
+{
+    int i;
+    int j;
+    int cur;
+    Pair(int i,int j,int cur)
+    {
+        this.i=i;
+        this.j=j;
+        this.cur=cur;
+    }
+}
 class Solution {
     public int orangesRotting(int[][] grid) {
-        Queue<int[]> stack=new LinkedList<>();
-        int[][] temp=new int[grid.length][grid[0].length]; 
+        int maxe=0;
+        Queue<Pair> qu=new LinkedList<>();
+        int count=0;
         for(int i=0;i<grid.length;i++)
         {
             for(int j=0;j<grid[0].length;j++)
             {
                 if(grid[i][j]==2)
                 {
-                    stack.add(new int[]{i,j,0});
-                    temp[i][j]=2;
+                    Pair p=new Pair(i,j,0);
+                    qu.add(p);
                 }
-            }
-        }
-        int maxe=0;
-        while(!stack.isEmpty())
-        {
-            int[] res=stack.remove();
-            int i=res[0];
-            int j=res[1];
-            int k=res[2];
-            maxe=Math.max(maxe,k);
-            if(j-1>=0 && grid[i][j-1]==1 && temp[i][j-1]!=2)
-            {
-                stack.add(new int[]{i,j-1,k+1});
-                temp[i][j-1]=2;
-            }
-            if(j+1<grid[0].length && grid[i][j+1]==1 && temp[i][j+1]!=2)
-            {
-                 stack.add(new int[]{i,j+1,k+1});
-                temp[i][j+1]=2;
-            }
-            if(i-1>=0 && grid[i-1][j]==1 && temp[i-1][j]!=2)
-            {
-                  stack.add(new int[]{i-1,j,k+1});
-                temp[i-1][j]=2;
-            }
-             if(i+1<grid.length && grid[i+1][j]==1 && temp[i+1][j]!=2)
-            {
-                  stack.add(new int[]{i+1,j,k+1});
-                temp[i+1][j]=2;
-            }
-        }
-        for(int i=0;i<grid.length;i++)
-        {
-            for(int j=0;j<grid[0].length;j++)
-            {
-                if(grid[i][j]==1 && temp[i][j]==0)
+                if(grid[i][j]==1)
                 {
-                    return -1;
+                    count+=1;
                 }
             }
+        }
+        int vis=0;
+        while(!qu.isEmpty())
+        {
+            Pair p=qu.poll();
+            if((p.i)+1<grid.length && grid[(p.i)+1][p.j]==1)
+            {
+                vis+=1;
+                grid[(p.i)+1][p.j]=2;
+                qu.offer(new Pair((p.i)+1,p.j,(p.cur)+1));
+                maxe=Math.max(maxe,(p.cur)+1);
+            }
+            if((p.i)-1>=0 && grid[(p.i)-1][p.j]==1)
+            {
+                vis+=1;
+                grid[(p.i)-1][p.j]=2;
+                qu.offer(new Pair((p.i)-1,p.j,(p.cur)+1));
+                maxe=Math.max(maxe,(p.cur)+1);
+            }
+             if((p.j)-1>=0 && grid[(p.i)][(p.j)-1]==1)
+            {
+                vis+=1;
+                grid[p.i][(p.j)-1]=2;
+                qu.offer(new Pair(p.i,(p.j)-1,(p.cur)+1));
+                maxe=Math.max(maxe,(p.cur)+1);
+            }
+              if((p.j)+1<grid[0].length && grid[(p.i)][(p.j)+1]==1)
+            {
+                vis+=1;
+                grid[p.i][(p.j)+1]=2;
+                qu.offer(new Pair(p.i,(p.j)+1,(p.cur)+1));
+                maxe=Math.max(maxe,(p.cur)+1);
+            }
+        }
+        if(vis!=count)
+        {
+            return -1;
         }
         return maxe;
     }

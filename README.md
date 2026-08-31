@@ -690,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Dinesh-B-39/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/Dinesh-B-39/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Dinesh-B-39/LeetCode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Dinesh-B-39/LeetCode/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/Dinesh-B-39/LeetCode/tree/master/1306-jump-game-iii) |
@@ -947,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Dinesh-B-39/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Dinesh-B-39/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Dinesh-B-39/LeetCode/tree/master/0547-number-of-provinces) |
 | [0565-array-nesting](https://github.com/Dinesh-B-39/LeetCode/tree/master/0565-array-nesting) |
 | [0695-max-area-of-island](https://github.com/Dinesh-B-39/LeetCode/tree/master/0695-max-area-of-island) |
 | [0938-range-sum-of-bst](https://github.com/Dinesh-B-39/LeetCode/tree/master/0938-range-sum-of-bst) |
@@ -963,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0547-number-of-provinces](https://github.com/Dinesh-B-39/LeetCode/tree/master/0547-number-of-provinces) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Topological Sort
 |  |
@@ -981,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Dinesh-B-39/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Dinesh-B-39/LeetCode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Dinesh-B-39/LeetCode/tree/master/0547-number-of-provinces) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Segment Tree
 |  |

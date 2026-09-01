@@ -1,29 +1,29 @@
 class Solution {
-    ArrayList<String> list=new ArrayList<>();
-    public void check(int n1,int n2,StringBuilder sb,int c1,int c2)
+    List<String> res=new ArrayList<>();
+    public void check(int n,int s1,int s2,StringBuilder sb)
     {
-        if(n1==0 && n2==0)
+        if(s1==n && s2==n)
         {
-            list.add(sb.toString());
+            res.add(sb.toString());
             return;
         }
-        if(n1>0)
+        if(s1<n)
         {
             sb.append("(");
-            check(n1-1,n2,sb,c1+1,c2);
+            check(n,s1+1,s2,sb);
             sb.deleteCharAt(sb.length()-1);
         }
-        if(n2>0 && c1>c2)
+        if(s2<n && s1>s2)
         {
             sb.append(")");
-            check(n1,n2-1,sb,c1,c2+1);
+            check(n,s1,s2+1,sb);
             sb.deleteCharAt(sb.length()-1);
         }
     }
     public List<String> generateParenthesis(int n) {
         StringBuilder sb=new StringBuilder();
-        check(n,n,sb,0,0);
-        return list;
+        check(n,0,0,sb);
+        return res;
         
     }
 }

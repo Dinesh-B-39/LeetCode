@@ -16,14 +16,18 @@ class Solution {
         {
             while(!stack.isEmpty())
             {
-                Pair p1=stack.pop();
+                Pair p1=stack.peek();
                 if(p1.val>temperatures[i])
                 {
                     res[i]=p1.ind-i;
                      Pair p2=new Pair(temperatures[i],i);
-                     stack.push(p1);
+                    // stack.push(p1);
                     stack.push(p2);
                     break;
+                }
+                else
+                {
+                    stack.pop();
                 }
             }
             Pair p1=new Pair(temperatures[i],i);

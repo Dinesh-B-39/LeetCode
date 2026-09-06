@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Dinesh-B-39/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dinesh-B-39/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/Dinesh-B-39/LeetCode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 | [4107-find-missing-elements](https://github.com/Dinesh-B-39/LeetCode/tree/master/4107-find-missing-elements) |
 ## Two Pointers
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Dinesh-B-39/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dinesh-B-39/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Counting Sort
 |  |
 | ------- |

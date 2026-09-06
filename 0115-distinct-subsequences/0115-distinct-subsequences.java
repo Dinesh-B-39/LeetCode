@@ -1,36 +1,37 @@
 class Solution {
-    public int check(int i,int j,String s,String t,int[][] dp)
+    public int check(int ind1,int ind2,String s,String t,int[][] dp)
     {
-        if(j<0)
-        {
+       if(ind2==t.length())
+       {
             return 1;
-        }
-        if(i<0)
+       }
+       if(ind1==s.length())
+       {
+        return 0;
+       }
+        if(dp[ind1][ind2]!=-1)
         {
-            return 0;
+            return dp[ind1][ind2];
         }
-        if(dp[i][j]!=-1)
+        int s1=0;
+        int s2=0;
+        if(s.charAt(ind1)==t.charAt(ind2))
         {
-            return dp[i][j];
+            s1=check(ind1+1,ind2+1,s,t,dp);
         }
-        if(s.charAt(i)==t.charAt(j))
-        {
-            int s1=check(i-1,j-1,s,t,dp);
-            int s2=check(i-1,j,s,t,dp);
-            dp[i][j]=s1+s2;
-        }
-        else
-        {
-             dp[i][j]=check(i-1,j,s,t,dp);
-        }
-        return dp[i][j];
+        s2=check(ind1+1,ind2,s,t,dp);
+        return dp[ind1][ind2]=s1+s2;
+        
     }
     public int numDistinct(String s, String t) {
+       
         int[][] dp=new int[s.length()][t.length()];
         for(int i=0;i<dp.length;i++)
         {
             Arrays.fill(dp[i],-1);
         }
-        return check(s.length()-1,t.length()-1,s,t,dp);
+        
+        return check(0,0,s,t,dp);
+        
     }
 }

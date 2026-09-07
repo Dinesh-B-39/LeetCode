@@ -1,39 +1,32 @@
 class Solution {
-    public int[] check(String s)
-    {
-        int[] arr=new int[26];
-        for(int i=0;i<s.length();i++)
-        {
-            arr[s.charAt(i)-'a']+=1;
-        }
-        return arr;
-    }
     public List<List<String>> groupAnagrams(String[] strs) {
-        int[] visited=new int[strs.length];
+        HashMap<String,ArrayList<String>> map=new HashMap<>();
         List<List<String>> res=new ArrayList<>();
         for(int i=0;i<strs.length;i++)
         {
-            if(visited[i]!=-1)
+            String s=strs[i];
+            int[] arr=new int[26];
+            for(int j=0;j<s.length();j++)
             {
-            List<String> list=new ArrayList<>();
-            int[] arr=check(strs[i]);
-            list.add(strs[i]);
-            visited[i]=-1;
-            for(int j=i+1;j<strs.length;j++)
-            {
-                if(visited[j]!=-1)
-                {
-                if(Arrays.equals(arr,check(strs[j])))
-                {
-                    list.add(strs[j]);
-                    visited[j]=-1;
-                }
-                }
+                arr[s.charAt(j)-'a']+=1;
             }
-            res.add(list);
+            String key=Arrays.toString(arr);
+            if(map.containsKey(key))
+            {
+                map.get(key).add(s);
+            }
+            else
+            {
+                ArrayList<String> l1=new ArrayList<String>();
+                l1.add(s);
+                map.put(key,l1);
+                
             }
         }
-
+        for(String s:map.keySet())
+        {
+            res.add(map.get(s));
+        }
         return res;
     }
 }

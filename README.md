@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Dinesh-B-39/LeetCode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Dinesh-B-39/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Dinesh-B-39/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Dinesh-B-39/LeetCode/tree/master/0204-count-primes) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Dinesh-B-39/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Dinesh-B-39/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dinesh-B-39/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Dinesh-B-39/LeetCode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Dinesh-B-39/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Dinesh-B-39/LeetCode/tree/master/0455-assign-cookies) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Dinesh-B-39/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Dinesh-B-39/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Dinesh-B-39/LeetCode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Dinesh-B-39/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Dinesh-B-39/LeetCode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Dinesh-B-39/LeetCode/tree/master/0263-ugly-number) |

@@ -46,12 +46,6 @@ class Solution {
         }
         prev.next=null;
         reverse(slow,slow);
-        ListNode r1=head;
-        while(r1!=null)
-        {
-            System.out.print(r1.val+" ");
-            r1=r1.next;
-        }
         ListNode temp1=head;
         ListNode temp2=res;
         while(temp1!=null && temp2!=null)

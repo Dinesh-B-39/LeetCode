@@ -21,7 +21,7 @@ class Solution {
                 ListNode cur=temp1.next;
                 temp.next=temp1;
                 temp=temp.next;
-                temp.next=null;
+               
                 temp1=cur;
             }
             else
@@ -29,7 +29,7 @@ class Solution {
                 ListNode cur=temp2.next;
                 temp.next=temp2;
                 temp=temp.next;
-                temp.next=null;
+                
                 temp2=cur;
             }
         }

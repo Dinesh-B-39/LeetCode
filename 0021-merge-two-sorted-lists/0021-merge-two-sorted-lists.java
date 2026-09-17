@@ -18,19 +18,19 @@ class Solution {
         {
             if(temp1.val<=temp2.val)
             {
-                ListNode cur=temp1.next;
+                // ListNode cur=temp1.next;
                 temp.next=temp1;
                 temp=temp.next;
                
-                temp1=cur;
+                temp1=temp.next;
             }
             else
             {
-                ListNode cur=temp2.next;
+                // ListNode cur=temp2.next;
                 temp.next=temp2;
                 temp=temp.next;
-                
-                temp2=cur;
+
+                temp2=temp.next;
             }
         }
         if(temp1!=null)

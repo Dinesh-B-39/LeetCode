@@ -27,12 +27,14 @@ class Solution {
             return head;
         }
         int c=1;
+        ListNode key=null;
         ListNode temp=head;
         ListNode prev=null;
         ListNode s1=null;
         if(left==1)
         {
             s1=head;
+            key=head;
         }
         else
         {
@@ -40,6 +42,7 @@ class Solution {
             {
                 if(c==left)
                 {
+                    key=temp;
                     s1=temp;
                     break;
                 }
@@ -77,19 +80,20 @@ class Solution {
         {
             head=tempo;
         }
-        temp=head;
-        prev=null;
-        while(temp!=null)
-        {
-            prev=temp;
-            temp=temp.next;
-        }
-        if(prev==null)
-        {
-            temp.next=s2;
-            return head;
-        }
-        prev.next=s2;
+        // temp=head;
+        // prev=null;
+        // while(temp!=null)
+        // {
+        //     prev=temp;
+        //     temp=temp.next;
+        // }
+        // if(prev==null)
+        // {
+        //     temp.next=s2;
+        //     return head;
+        // }
+        // prev.next=s2;
+        key.next=s2;
         return head;
 
 

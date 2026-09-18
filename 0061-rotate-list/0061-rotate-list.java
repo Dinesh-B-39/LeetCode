@@ -9,72 +9,66 @@
  * }
  */
 class Solution {
-    public ListNode check(ListNode head,ListNode temp,ListNode s1)
+    public ListNode reverse(ListNode head)
     {
-        if(head==null)
+        ListNode prev=null;
+        while(head!=null)
         {
-            return temp;
+            ListNode temp=head.next;
+            head.next=prev;
+            prev=head;
+            head=temp;
         }
-        ListNode temp2=new ListNode(head.val);
-        temp2.next=temp;
-        if(head==s1)
-        {
-            temp2.next=null;
-        }
-         return check(head.next,temp2,s1);
-
+        return prev;
     }
     public ListNode rotateRight(ListNode head, int k) {
-        if(head==null)
+        if(head==null || head.next==null)
         {
             return head;
         }
+        int length=0;
         ListNode temp=head;
-        int tot=0;
         while(temp!=null)
         {
-            tot+=1;
+            length+=1;
             temp=temp.next;
         }
-        k=k%tot;
-        int p=tot-k;
-        if(p==tot)
+        k=k%length;
+        if(k==0)
         {
             return head;
         }
-        ListNode temp1=null;
-        // ListNode temp2=null;
-        temp=head;
-        int z=0;
-        while(temp!=null)
+        ListNode head1=reverse(head);
+        int c=1;
+        ListNode prev=null;
+        temp=head1;
+        if(k==1)
         {
-            z+=1;
-            if(z==p)
+            head1.next=reverse(head1.next);
+            return head1;
+        }
+        else
+        {
+            ListNode s1=head1;
+            while(temp!=null)
             {
-                temp1=temp.next;
-                temp.next=null;
-                break;
+                if(c==k)
+                {
+                    ListNode x1=temp.next;
+                    temp.next=null;
+                    head=reverse(head1);
+                    s1.next=reverse(x1);
+                    return head;
+                }
+                else
+                {
+                    temp=temp.next;
+                    c+=1;
+                }
             }
-            temp=temp.next;
 
         }
-        ListNode temp2=null;
-        ListNode neon=temp1;
-        while(neon!=null)
-        {
-            if(neon.next==null)
-            {
-                neon.next=head;
-                break;
-            }
-            neon=neon.next;
-        }
-    //    temp1.next=head;
-       return temp1;
-
-
-
-        // return check(head,temp,head);
+        return null;
         
     }
 }

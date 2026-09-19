@@ -22,13 +22,10 @@ class Solution {
         return prev;
     }
     public ListNode reverseKGroup(ListNode head, int k) {
-        ListNode dummy2=new ListNode(-1);
-        ListNode cus=dummy2;
         ListNode dummy=new ListNode(-1);
         ListNode temp=dummy;
         int c=1;
         ListNode trav=head;
-        boolean flag=false;
         ListNode z=null;
         while(trav!=null)
         {
@@ -43,27 +40,11 @@ class Solution {
                trav=x;
                z=trav;
                c=1;
-               flag=true;
+            
             }
             else
             {
-                // if(flag)
-                // {
-                //     ListNode oat=trav.next;
-                //     cus.next=trav;
-                //     cus=cus.next;
-                //     c+=1;
-                //     trav=oat;
-                    
-                // }
-                // else
-                // {
-                //     trav=trav.next;
-                    
-                //     c+=1;
-                //     cus=dummy2;
-                // }
-                // flag=false;
+            
                 trav=trav.next;
                 c+=1;
                 

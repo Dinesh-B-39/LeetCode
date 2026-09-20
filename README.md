@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/Dinesh-B-39/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Dinesh-B-39/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dinesh-B-39/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Dinesh-B-39/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Dinesh-B-39/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Dinesh-B-39/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Dinesh-B-39/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dinesh-B-39/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dinesh-B-39/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Dinesh-B-39/LeetCode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Dinesh-B-39/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Dinesh-B-39/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Dinesh-B-39/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |

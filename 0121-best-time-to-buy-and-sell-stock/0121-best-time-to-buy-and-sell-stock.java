@@ -1,20 +1,18 @@
 class Solution {
-    public int maxProfit(int[] arr) {
-        int mine=arr[0];
-        int ans=0;
-        for(int i=1;i<arr.length;i++)
+    public int maxProfit(int[] prices) {
+        int[] temp=new int[prices.length];
+        int maxe=prices[prices.length-1];
+        temp[temp.length-1]=maxe;
+        for(int i=prices.length-1;i>=0;i--)
         {
-            if(mine<arr[i])
-            {
-                ans=Math.max(ans,arr[i]-mine);
-            }
-            else
-            {
-                
-                    mine=Math.min(mine,arr[i]);
-            }
-            
+            maxe=Math.max(maxe,prices[i]);
+            temp[i]=maxe;
         }
-        return ans;
+        int res=0;
+        for(int i=0;i<prices.length-1;i++)
+        {
+            res=Math.max(res,temp[i+1]-prices[i]);
+        }
+        return res;
     }
 }

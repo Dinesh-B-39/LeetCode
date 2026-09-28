@@ -7,14 +7,14 @@ class Solution {
             if(s.charAt(i)=='(')
             {
                 stack.push('(');
+                 maxe=Math.max(maxe,stack.size());
             }
             else if(s.charAt(i)==')')
             {
                 stack.pop();
             }
-            maxe=Math.max(maxe,stack.size());
+           
         }
-
 
         return maxe;
     }

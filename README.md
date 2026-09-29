@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Dinesh-B-39/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Dinesh-B-39/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Dinesh-B-39/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dinesh-B-39/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Dinesh-B-39/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
@@ -903,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Dinesh-B-39/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-cherry-pickup-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Dinesh-B-39/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dinesh-B-39/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/Dinesh-B-39/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2585-number-of-ways-to-earn-points](https://github.com/Dinesh-B-39/LeetCode/tree/master/2585-number-of-ways-to-earn-points) |
@@ -983,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/Dinesh-B-39/LeetCode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Dinesh-B-39/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dinesh-B-39/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Dinesh-B-39/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2906-construct-product-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/2906-construct-product-matrix) |
@@ -1157,6 +1160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Dinesh-B-39/LeetCode/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dinesh-B-39/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dinesh-B-39/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Knapsack Problem
 |  |
 | ------- |

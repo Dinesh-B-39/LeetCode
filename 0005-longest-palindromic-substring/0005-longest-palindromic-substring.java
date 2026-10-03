@@ -17,15 +17,9 @@ class Solution {
         {
              return s.substring(i+1,j);
         }
-        if(j==s.length())
-        {
+       
             return s.substring(i+1,j);
-        }
-        if(i<0)
-        {
-            return s.substring(i+1,j);
-        }
-        return "";
+       
     }
     public String longestPalindrome(String s) {
         int maxe=0;

@@ -1,42 +1,47 @@
 class Solution {
-    public boolean check(String s,int ind,int value,Boolean[][] dp)
+    public boolean check(String s,int i,int k,Boolean[][] dp)
     {
-        if(ind==s.length())
+        boolean s1=false;
+        boolean s2=false;
+        boolean s3=false;
+      if(i==s.length())
+      {
+        return k==0;
+      }
+      if(dp[i][k]!=null)
+      {
+        return dp[i][k];
+      }
+      if(s.charAt(i)=='(')
+      {
+        s1=check(s,i+1,k+1,dp);
+      }
+      else if(s.charAt(i)==')')
+      {
+        if(k>0)
         {
-            if(value==0)
-            {
-                return true;
-            }
-            return false;
-        }
-        if(dp[ind][value+1]!=null)
-        {
-            return dp[ind][value+1];
-        }
-        boolean b1=false;
-        if(value<0)
-        {
-            return false;
-        }
-        if(s.charAt(ind)=='(')
-        {
-            b1=check(s,ind+1,value+1,dp);
-        }
-        else if(s.charAt(ind)==')')
-        {
-            b1=check(s,ind+1,value-1,dp);
+            s1=check(s,i+1,k-1,dp);
         }
         else
         {
-            boolean k1=check(s,ind+1,value+1,dp);
-            boolean k2=check(s,ind+1,value-1,dp);
-            boolean k3=check(s,ind+1,value,dp);
-            b1=(k1 || (k2 || k3));
+            return false;
         }
-        return dp[ind][value+1]=b1;
+      }
+      else
+      {
+        s1=check(s,i+1,k+1,dp);
+        if(k>0)
+        {
+            s2=check(s,i+1,k-1,dp);
+        }
+
+        s3=check(s,i+1,k,dp);
+      }
+      return dp[i][k]=s1 || s2 || s3;
+
     }
     public boolean checkValidString(String s) {
-        Boolean [][] dp=new Boolean[s.length()][s.length()+1];
+        Boolean[][] dp=new Boolean[s.length()][s.length()];
         return check(s,0,0,dp);
         
     }

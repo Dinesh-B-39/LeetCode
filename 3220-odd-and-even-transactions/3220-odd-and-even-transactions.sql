@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select distinct t1.transaction_date,ifnull(t2.zet1,0) as "odd_sum",ifnull(t3.zet2,0) as "even_sum" from transactions t1 left join (select transaction_date,sum(amount) as zet1 from transactions where amount%2=1 group by transaction_date) as t2 on t1.transaction_date=t2.transaction_date left join(select transaction_date,sum(amount) as zet2 from transactions where amount%2=0 group by transaction_date) as t3 on t1.transaction_date=t3.transaction_date order by transaction_date asc

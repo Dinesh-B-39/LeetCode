@@ -20,11 +20,12 @@ class Solution {
             }
             return;
         }
-        StringBuilder v1=new StringBuilder(sb.toString());
+        // StringBuilder v1=new StringBuilder(sb.toString());
         if(s.charAt(ind)=='(')
         {
             sb.append('(');
             check(ind+1,s,k+1,del,sb);
+            sb.deleteCharAt(sb.length()-1);
         }
         else if(s.charAt(ind)==')')
         {
@@ -32,16 +33,18 @@ class Solution {
             {
                 sb.append(')');
                 check(ind+1,s,k-1,del,sb);
+                sb.deleteCharAt(sb.length()-1);
             }
         }
         else
         {
             sb.append(s.charAt(ind));
             check(ind+1,s,k,del,sb);
+            sb.deleteCharAt(sb.length()-1);
         }
         if(s.charAt(ind)=='(' || s.charAt(ind)==')' )
         {
-            check(ind+1,s,k,del+1,v1);
+            check(ind+1,s,k,del+1,sb);
         }
         
 

@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select distinct a1.machine_id,round(((sum(t2.timestamp-t1.timestamp))/2)/count(*)*2,3) as processing_time from Activity a1 join(select machine_id,process_id,timestamp from Activity where activity_type="start") as t1 on a1.machine_id=t1.machine_id and a1.process_id=t1.process_id join(select machine_id,process_id,timestamp from Activity where activity_type="end") as t2 on a1.machine_id=t2.machine_id and a1.process_id=t2.process_id group by a1.machine_id

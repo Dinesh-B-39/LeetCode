@@ -1131,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1795-rearrange-products-table](https://github.com/Dinesh-B-39/LeetCode/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/Dinesh-B-39/LeetCode/tree/master/1873-calculate-special-bonus) |
 | [1907-count-salary-categories](https://github.com/Dinesh-B-39/LeetCode/tree/master/1907-count-salary-categories) |
+| [1934-confirmation-rate](https://github.com/Dinesh-B-39/LeetCode/tree/master/1934-confirmation-rate) |
 | [1965-employees-with-missing-information](https://github.com/Dinesh-B-39/LeetCode/tree/master/1965-employees-with-missing-information) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Dinesh-B-39/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3220-odd-and-even-transactions](https://github.com/Dinesh-B-39/LeetCode/tree/master/3220-odd-and-even-transactions) |

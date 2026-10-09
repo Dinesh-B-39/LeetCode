@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dinesh-B-39/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Dinesh-B-39/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Dinesh-B-39/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dinesh-B-39/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Dinesh-B-39/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Dinesh-B-39/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1386-cinema-seat-allocation](https://github.com/Dinesh-B-39/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Dinesh-B-39/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Dinesh-B-39/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Dinesh-B-39/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dinesh-B-39/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Dinesh-B-39/LeetCode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Dinesh-B-39/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Dinesh-B-39/LeetCode/tree/master/0946-validate-stack-sequences) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dinesh-B-39/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Dinesh-B-39/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dinesh-B-39/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1187,6 +1190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Dinesh-B-39/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Dinesh-B-39/LeetCode/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dinesh-B-39/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dinesh-B-39/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dinesh-B-39/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Knapsack Problem

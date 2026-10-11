@@ -1,44 +1,38 @@
 class Solution {
-    public int check(int[] nums,ArrayList<Integer> list,int target,int val)
+    public int check(int ind,int prev,int[] nums,int[][] dp)
     {
-        int low=0;
-        int high=list.size()-1;
-        while(low<=high)
+        if(ind==nums.length)
         {
-            int mid=(low+high)/2;
-            if(list.get(mid)==target)
-            {
-                return mid;
-            }
-            else if(list.get(mid)>target)
-            {
-                val=mid;
-                high=mid-1;
-            }
-            else if(list.get(mid)<target)
-            {
-                low=mid+1;
-            }
-
-
+            return 0;
         }
-       return val;
+        if(dp[ind][prev+1]!=-1)
+        {
+            return dp[ind][prev+1];
+        }
+        int c1=0;
+        int c2=0;
+        if(prev==-1)
+        {
+            c1=1+check(ind+1,ind,nums,dp);
+            c2=check(ind+1,-1,nums,dp);
+        }
+        else
+        {
+            if(nums[ind]>nums[prev])
+            {
+                c1=1+check(ind+1,ind,nums,dp);
+            }
+            c2=check(ind+1,prev,nums,dp);
+        }
+        return dp[ind][prev+1]=Math.max(c1,c2);
     }
     public int lengthOfLIS(int[] nums) {
-        ArrayList<Integer> list=new ArrayList<>();
-        list.add(nums[0]);
-        for(int i=1;i<nums.length;i++)
+        int[][] dp=new int[nums.length][nums.length];
+        for(int i=0;i<dp.length;i++)
         {
-            if(nums[i]>list.get(list.size()-1))
-            {
-                list.add(nums[i]);
-            }
-            else
-            {
-                int m=check(nums,list,nums[i],-1);
-                list.set(m,nums[i]);
-            }
+            Arrays.fill(dp[i],-1);
         }
-        return list.size();
+        return check(0,-1,nums,dp);
+        
     }
 }

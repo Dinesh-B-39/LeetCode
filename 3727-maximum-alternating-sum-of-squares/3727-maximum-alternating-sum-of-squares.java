@@ -7,7 +7,6 @@ class Solution {
             arr[i]=nums[i]*nums[i];
             res+=arr[i];
         }
-        System.out.println(res);
         Arrays.sort(arr);
         int k=(nums.length/2)-1;
         for(int i=k;i>=0;i--)

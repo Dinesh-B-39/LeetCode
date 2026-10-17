@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Dinesh-B-39/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/Dinesh-B-39/LeetCode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Dinesh-B-39/LeetCode/tree/master/0228-summary-ranges) |
+| [0283-move-zeroes](https://github.com/Dinesh-B-39/LeetCode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Dinesh-B-39/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Dinesh-B-39/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dinesh-B-39/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Dinesh-B-39/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Dinesh-B-39/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Dinesh-B-39/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Dinesh-B-39/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Dinesh-B-39/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Dinesh-B-39/LeetCode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Dinesh-B-39/LeetCode/tree/master/0611-valid-triangle-number) |

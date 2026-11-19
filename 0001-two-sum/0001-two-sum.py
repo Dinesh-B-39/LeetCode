@@ -1,15 +1,17 @@
-class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        map={}
-        for i in range(len(nums)):
+class Solution(object):
+    def twoSum(self, nums, target):
+        map=dict()
+        res=[]
+        for i in range(0,len(nums)):
             map[nums[i]]=i
-        res=[];
-        for i in range(len(nums)):
-            k=target-nums[i]
-            if k in map:
-                if i!=map.get(k):
-                    res.append(i)
-                    res.append(map.get(k))
-                    break;
-        return res;
+        for i in range(0,len(nums)):
+            z=target-nums[i]
+            if z in map and map.get(z)!=i:
+                res.append(i)
+                res.append(map.get(z))
+                return res
+
+
+
+
         

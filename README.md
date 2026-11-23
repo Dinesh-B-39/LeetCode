@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Dinesh-B-39/LeetCode/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/Dinesh-B-39/LeetCode/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dinesh-B-39/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Dinesh-B-39/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Dinesh-B-39/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Dinesh-B-39/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1463-cherry-pickup-ii](https://github.com/Dinesh-B-39/LeetCode/tree/master/1463-cherry-pickup-ii) |
